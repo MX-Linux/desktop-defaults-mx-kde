@@ -1,0 +1,3 @@
+skel/* etc/skel
+xdg/*  etc/xdg
+breeze/*	/usr/share/sddm/themes/breeze
