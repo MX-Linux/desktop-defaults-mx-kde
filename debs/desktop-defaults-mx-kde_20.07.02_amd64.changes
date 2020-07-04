@@ -1,0 +1,46 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Format: 1.8
+Date: Sat, 04 Jul 2020 17:45:25 -0400
+Source: desktop-defaults-mx-kde
+Binary: desktop-defaults-mx-kde
+Architecture: source all
+Version: 20.07.02
+Distribution: mx
+Urgency: medium
+Maintainer: dolphinoracle <dolphinoracle@gmail.com>
+Changed-By: Adrian <adrian@mxlinux.org>
+Description:
+ desktop-defaults-mx-kde - Metapackage for desktop defaults for MX Linux KDE/plasma.
+Changes:
+ desktop-defaults-mx-kde (20.07.02) mx; urgency=medium
+ .
+   * Change theme to breeze-dark
+Checksums-Sha1:
+ 9cc634c1d7e7541dbd1b53b10dd7d5f0670e7b66 1223 desktop-defaults-mx-kde_20.07.02.dsc
+ 95405197b6cd9bdad52c8b67b0de37523e78d02b 150932 desktop-defaults-mx-kde_20.07.02.tar.xz
+ 3ead31400768fb9665ddb3b84a8077354b9ae081 151708 desktop-defaults-mx-kde_20.07.02_all.deb
+ ad24f606701ef7f51adf2f68767c7aa300441de7 5186 desktop-defaults-mx-kde_20.07.02_amd64.buildinfo
+Checksums-Sha256:
+ 01bf92f521fd57ff96ba9aed74f9a2723411b222dbc64a04b0cd5eb2e85dc823 1223 desktop-defaults-mx-kde_20.07.02.dsc
+ 77b5154f7a1f5650f2186c33d14793205c322fa559336f5e2819c9f86b3aee5f 150932 desktop-defaults-mx-kde_20.07.02.tar.xz
+ 1a1b03da7bb35201503d6faf0bf3b1c4564ffeed414858d66d149ba517b13668 151708 desktop-defaults-mx-kde_20.07.02_all.deb
+ 0a70bdea479a4ab3180d00a2ca2042062085cbbcd621b89c394daa227da08fd5 5186 desktop-defaults-mx-kde_20.07.02_amd64.buildinfo
+Files:
+ 5b40d5eddd6d19b292831b7194fa53f2 1223 system optional desktop-defaults-mx-kde_20.07.02.dsc
+ 6aa5ee141aff73c162b0c2260a96007e 150932 system optional desktop-defaults-mx-kde_20.07.02.tar.xz
+ 0f42cdcc079afc2d40a42c56136d6ffd 151708 system optional desktop-defaults-mx-kde_20.07.02_all.deb
+ e66aeb18f3e2859262bdb165d0dcde7f 5186 system optional desktop-defaults-mx-kde_20.07.02_amd64.buildinfo
+
+-----BEGIN PGP SIGNATURE-----
+
+iQFHBAEBCgAxFiEE8ndToY6S45N+YzXncJOMeAZ57pgFAl8BETQTHGFkcmlhbkBt
+eGxpbnV4Lm9yZwAKCRBwk4x4BnnumBo3B/9vs+G6buAEB5YSrwraJ3D0BBqBwsUj
+6QLNGh6g5TqO11pCtBPpAFhyl/zafePHw0wTnvGIibLKUk6gwjKsygrvkdhxuNU2
+60DkazPnm1URNkYGqbZ3qsfth+RcSc7vh99ICgcjPJXIVqrI1DhdG+/AN8mOZ5fH
+k+jyYkFgXchn+NDhXbtMLfELL66GPKGcMDYTjBJspN+0LO3mT62XrvoNJqlyElIw
+LHudpVSugvmbA7NXTpgLpfu67hihn9SD9qPA5RNU6t8yBOfg3yoNyKF24w3xvKin
+g4IzdCOrrXSgbGg+yNk6hX6RoTbXJObnDqHV6LrUnUlS7zcGWy/+dcYL
+=jtzV
+-----END PGP SIGNATURE-----

@@ -6,6 +6,6 @@ Build-Depends: debhelper (>= 9.20120115)
 Standards-Version: 3.9.4
 Homepage: https://mxlinux.org
 
-Package: desktop-defaults-mx-xfce
+Package: desktop-defaults-mx-kde
 Architecture: all
 Description: Metapackage for desktop defaults for MX Linux KDE/plasma.

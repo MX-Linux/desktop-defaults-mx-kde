@@ -1,3 +1,9 @@
+desktop-defaults-mx-kde (20.07.02) mx; urgency=medium
+
+  * Change theme to breeze-dark
+
+ -- Adrian <adrian@mxlinux.org>  Sat, 04 Jul 2020 17:45:25 -0400
+
 desktop-defaults-mx-kde (20.07.01) mx; urgency=medium
 
   * Initial release.
