@@ -1,0 +1,46 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Format: 1.8
+Date: Tue, 07 Jul 2020 13:49:49 -0400
+Source: desktop-defaults-mx-kde
+Binary: desktop-defaults-mx-kde
+Architecture: source all
+Version: 20.07.03
+Distribution: mx
+Urgency: medium
+Maintainer: dolphinoracle <dolphinoracle@gmail.com>
+Changed-By: Adrian <adrian@mxlinux.org>
+Description:
+ desktop-defaults-mx-kde - Metapackage for desktop defaults for MX Linux KDE/plasma.
+Changes:
+ desktop-defaults-mx-kde (20.07.03) mx; urgency=medium
+ .
+   * Set CTRL-ALT-T launcher for konsole
+Checksums-Sha1:
+ ca0f4fa83dbe661213d774492b7e475c8670523f 1223 desktop-defaults-mx-kde_20.07.03.dsc
+ 48d4c5f5b7af80b17e02cb1fc060852390428392 151032 desktop-defaults-mx-kde_20.07.03.tar.xz
+ 6a4c7f50ce6ae59bdc57abf0097fdb853c21fd77 151848 desktop-defaults-mx-kde_20.07.03_all.deb
+ 5d2d7c07d73130fd8372d5719a481696529e414a 5186 desktop-defaults-mx-kde_20.07.03_amd64.buildinfo
+Checksums-Sha256:
+ a0d5f712c8d10fd9ea0370edf6e3e6b10da16f17b4e5c10e0cdc4bdff5eeb601 1223 desktop-defaults-mx-kde_20.07.03.dsc
+ a484feadfc9b4368b7c583235bc2ca927ee18bdde34b614d23fe85e2a6a3744c 151032 desktop-defaults-mx-kde_20.07.03.tar.xz
+ b63e5377222deb19e59452cf88fa101b1f60016018f31a5e708e9bcbe01f49a8 151848 desktop-defaults-mx-kde_20.07.03_all.deb
+ cd25d748d6372277578f2af1fc914395e69e0d29449c0d056bb105b8bbc5814f 5186 desktop-defaults-mx-kde_20.07.03_amd64.buildinfo
+Files:
+ 4a2bff0f70a455dace9da660899c6e36 1223 system optional desktop-defaults-mx-kde_20.07.03.dsc
+ 6b4e7bf4a84025433efb5760cc47217d 151032 system optional desktop-defaults-mx-kde_20.07.03.tar.xz
+ f7e723f4f36ffa763bc9037fc63134e6 151848 system optional desktop-defaults-mx-kde_20.07.03_all.deb
+ 9b072cdc9f28de66f33cc357c069964a 5186 system optional desktop-defaults-mx-kde_20.07.03_amd64.buildinfo
+
+-----BEGIN PGP SIGNATURE-----
+
+iQFHBAEBCgAxFiEE8ndToY6S45N+YzXncJOMeAZ57pgFAl8EtlUTHGFkcmlhbkBt
+eGxpbnV4Lm9yZwAKCRBwk4x4BnnumEIjB/43atNedXEWiJIjtQF6WBvTU6d1oofI
+DylU6Tg8CJsRNjAKBFneFPACvfG6f17VrznxRXyfRnjex3liKLLYkHkR6JpEUllP
+fkFnCLrezhi8yI5qLrdNccQnbbm97XlvJkECYJ4UiVnUgmqqZ9qxcA4QlUob2KqE
+PwqXLESDr4SE/76N9+7v+IogFhXNArU9vUeMss4zZ7VyxKyscVueNRPaUVPiNeaq
+uRxejFQ3EXDXGTUgD3mGJPYcJNyc5vxumbUsjXwamHOKh5oF3MhVHxHNmcMnh+O5
+YDzL7exM1/JEq1sqB9IQpuQG09OeRROUhVZ2q+NdHBaRrWE6SIGkDWsl
+=CNlA
+-----END PGP SIGNATURE-----
