@@ -13,20 +13,20 @@ Build-Depends: debhelper (>= 9.20120115)
 Package-List:
  desktop-defaults-mx-kde deb system optional arch=all
 Checksums-Sha1:
- e6e6d6e947a32b936a04ad448131cb5d673af20a 151204 desktop-defaults-mx-kde_20.07.05.tar.xz
+ cd3bf0af458087afd58f4acaa5f1e25f453b19fb 151116 desktop-defaults-mx-kde_20.07.05.tar.xz
 Checksums-Sha256:
- 30c41819dc330ecadd56d18f835f553a92763fca85fb3fd79797e1b9ba6cc38d 151204 desktop-defaults-mx-kde_20.07.05.tar.xz
+ 0666745076952c4648cce7b0f26793879984e8607dfa7d3b8f98ea11bbeac7d6 151116 desktop-defaults-mx-kde_20.07.05.tar.xz
 Files:
- 29f2424f04f99fb74b41fc6510ead573 151204 desktop-defaults-mx-kde_20.07.05.tar.xz
+ 5df775c862b5d7dccde656e8ec7a949a 151116 desktop-defaults-mx-kde_20.07.05.tar.xz
 
 -----BEGIN PGP SIGNATURE-----
 
-iQFHBAEBCgAxFiEE8ndToY6S45N+YzXncJOMeAZ57pgFAl8P4f8THGFkcmlhbkBt
-eGxpbnV4Lm9yZwAKCRBwk4x4BnnumPDrB/9MUw959Ye2z55646lPvuV/FqjVlwXY
-omoi1mE/LoTTPlqLGtBq6iaRfG9fmewLC/19cnonZbvITwPBCRnAf7I8o6Qpx/W5
-uAokQ76/uxb48ONlWn3uq3Bc+qt22Dvvr+wIwcLze84Eaz/kirBi3mAkLYreFkOT
-iZl2D6fcx+qJawWPa7OveQ1lJM85lQ7X0Lz8XSxtG/rwKr1yJn2MmRdNrflA5aFa
-iGPM6TxFT8PqglYvUjHN1sogAsnXEEW1mavKbUnVk4iaKnfuZ1E/HbE+PF41RYZ/
-v2Hv65PW7U58Qs71g9ABegBaj2TJKoNaBn0svRwrFHVn2uIlMjF/09CP
-=mEth
+iQFHBAEBCgAxFiEE8ndToY6S45N+YzXncJOMeAZ57pgFAl8P6b8THGFkcmlhbkBt
+eGxpbnV4Lm9yZwAKCRBwk4x4BnnumLSJB/4jmSK04N+YpfRGkA+5f0lhqCsD2uiY
+q1I6reIO+TOPXtXz8/S+HGPSc/jBMJ60tuHaxaXrVHb2wHo+izkMW/JONFxDGrZ1
+BI+OOqyB5Dp3gAyD1oTueCJlH+HSj7fo2tzXLDdaEUb6n1R24FGUp6QjFKJh45av
+yaTs9t5Y/nP6zN3MaDDRL2/3pmtZEZCFYQLPhMj8es9v1CkZ9zSRTA9XZKSoX8ik
+tDiYVGwrp8qFt600vRISdmLeSbI7I0kUhsVer7+LQ85R2TwHifJAJ7M8vP3EZtXg
+hOrgkRBD9l3yZ8So1kcaoWWKQ+N+DHKvEEJbz7wTuZ/sJlktGg/OKq3f
+=pu8W
 -----END PGP SIGNATURE-----
