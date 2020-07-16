@@ -1,0 +1,31 @@
+Format: 1.8
+Date: Wed, 15 Jul 2020 21:02:56 -0400
+Source: desktop-defaults-mx-kde
+Binary: desktop-defaults-mx-kde
+Architecture: source all
+Version: 20.07.04
+Distribution: mx
+Urgency: medium
+Maintainer: dolphinoracle <dolphinoracle@gmail.com>
+Changed-By: Adrian <dolphin@littlebyte>
+Description:
+ desktop-defaults-mx-kde - Metapackage for desktop defaults for MX Linux KDE/plasma.
+Changes:
+ desktop-defaults-mx-kde (20.07.04) mx; urgency=medium
+ .
+   * revised defaults for new look-and-feel package
+Checksums-Sha1:
+ 8c3b084984cad10bcfe2b6301426e280527047a5 661 desktop-defaults-mx-kde_20.07.04.dsc
+ d6ca39d3127d4bb3f1a231a5e2c7a084d69160c9 457212 desktop-defaults-mx-kde_20.07.04.tar.xz
+ c3c455705daf34e531266356ab12ff8ac691ba7c 152008 desktop-defaults-mx-kde_20.07.04_all.deb
+ 4ac137ad2ad9f1672a840a31f3f74459421ba15b 4760 desktop-defaults-mx-kde_20.07.04_amd64.buildinfo
+Checksums-Sha256:
+ ad124c75d703ae8658d28ccb5fec9d88e0da697c70dd6bb4dc643bfb056c9ca0 661 desktop-defaults-mx-kde_20.07.04.dsc
+ 2d6b68ac83217f617403369084f386f1f2fde82c4842fafa288e20f7d8b27469 457212 desktop-defaults-mx-kde_20.07.04.tar.xz
+ 264399f7e2aeb1760a63c41dfcbea10f503987da4accc4196745d4ae09ed2d33 152008 desktop-defaults-mx-kde_20.07.04_all.deb
+ be87b1b03cbe208d06c9d510b1cbc6598ebe6a69422f49fddb632ef6cb3b7d61 4760 desktop-defaults-mx-kde_20.07.04_amd64.buildinfo
+Files:
+ 01ace54584984e285c7b1f495bf52dfb 661 system optional desktop-defaults-mx-kde_20.07.04.dsc
+ d012c7a4d9e611ce342c6df438c518c6 457212 system optional desktop-defaults-mx-kde_20.07.04.tar.xz
+ 9606f3c2238ccfa0cc6db1859659544b 152008 system optional desktop-defaults-mx-kde_20.07.04_all.deb
+ 5f32a806967d0dd1d8a26c87206d47b5 4760 system optional desktop-defaults-mx-kde_20.07.04_amd64.buildinfo
