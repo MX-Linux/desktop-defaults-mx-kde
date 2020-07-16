@@ -15,17 +15,17 @@ Changes:
  .
    * revised defaults for new look-and-feel package
 Checksums-Sha1:
- 8c3b084984cad10bcfe2b6301426e280527047a5 661 desktop-defaults-mx-kde_20.07.04.dsc
- d6ca39d3127d4bb3f1a231a5e2c7a084d69160c9 457212 desktop-defaults-mx-kde_20.07.04.tar.xz
- c3c455705daf34e531266356ab12ff8ac691ba7c 152008 desktop-defaults-mx-kde_20.07.04_all.deb
- 4ac137ad2ad9f1672a840a31f3f74459421ba15b 4760 desktop-defaults-mx-kde_20.07.04_amd64.buildinfo
+ 78b27f3cc4a30fe08a875aeafe1a50f3584214a3 661 desktop-defaults-mx-kde_20.07.04.dsc
+ bc65fa8629c58ed3d54d1bd259c61cd2807c7b7a 762876 desktop-defaults-mx-kde_20.07.04.tar.xz
+ 004eb12a44e56affd636b1d2af2e3d3c6f2c75e5 151988 desktop-defaults-mx-kde_20.07.04_all.deb
+ a3006c8fee532e508c2f37b7becd004ea6a01d44 4760 desktop-defaults-mx-kde_20.07.04_amd64.buildinfo
 Checksums-Sha256:
- ad124c75d703ae8658d28ccb5fec9d88e0da697c70dd6bb4dc643bfb056c9ca0 661 desktop-defaults-mx-kde_20.07.04.dsc
- 2d6b68ac83217f617403369084f386f1f2fde82c4842fafa288e20f7d8b27469 457212 desktop-defaults-mx-kde_20.07.04.tar.xz
- 264399f7e2aeb1760a63c41dfcbea10f503987da4accc4196745d4ae09ed2d33 152008 desktop-defaults-mx-kde_20.07.04_all.deb
- be87b1b03cbe208d06c9d510b1cbc6598ebe6a69422f49fddb632ef6cb3b7d61 4760 desktop-defaults-mx-kde_20.07.04_amd64.buildinfo
+ 00cbabf265855e55d5fb7ff108e15ec0ae5be771551840ddbd8598903eee6610 661 desktop-defaults-mx-kde_20.07.04.dsc
+ 5dccc8279bec2e665897ec58734bf18e09e3144b4a746b6ca1e82444299ac32f 762876 desktop-defaults-mx-kde_20.07.04.tar.xz
+ 03f716f1441497fb9e46de49945f0c4fbdcd86c91de77783eb7571c894faa6b3 151988 desktop-defaults-mx-kde_20.07.04_all.deb
+ 3c124d0912ea3e3c09d88a2e63c3b91a4935006377f261ec9dfc43f82e860375 4760 desktop-defaults-mx-kde_20.07.04_amd64.buildinfo
 Files:
- 01ace54584984e285c7b1f495bf52dfb 661 system optional desktop-defaults-mx-kde_20.07.04.dsc
- d012c7a4d9e611ce342c6df438c518c6 457212 system optional desktop-defaults-mx-kde_20.07.04.tar.xz
- 9606f3c2238ccfa0cc6db1859659544b 152008 system optional desktop-defaults-mx-kde_20.07.04_all.deb
- 5f32a806967d0dd1d8a26c87206d47b5 4760 system optional desktop-defaults-mx-kde_20.07.04_amd64.buildinfo
+ 240576230e00d813b78bc8d9def102a8 661 system optional desktop-defaults-mx-kde_20.07.04.dsc
+ ce2e90e5451aa0afa3fc075a35e52dde 762876 system optional desktop-defaults-mx-kde_20.07.04.tar.xz
+ 61f26e789cfbf51d8f31c35566f03a8b 151988 system optional desktop-defaults-mx-kde_20.07.04_all.deb
+ d8558fedb596b6d223a5c818948ba88f 4760 system optional desktop-defaults-mx-kde_20.07.04_amd64.buildinfo

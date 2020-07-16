@@ -10,8 +10,8 @@ Build-Depends: debhelper (>= 9.20120115)
 Package-List:
  desktop-defaults-mx-kde deb system optional arch=all
 Checksums-Sha1:
- d6ca39d3127d4bb3f1a231a5e2c7a084d69160c9 457212 desktop-defaults-mx-kde_20.07.04.tar.xz
+ bc65fa8629c58ed3d54d1bd259c61cd2807c7b7a 762876 desktop-defaults-mx-kde_20.07.04.tar.xz
 Checksums-Sha256:
- 2d6b68ac83217f617403369084f386f1f2fde82c4842fafa288e20f7d8b27469 457212 desktop-defaults-mx-kde_20.07.04.tar.xz
+ 5dccc8279bec2e665897ec58734bf18e09e3144b4a746b6ca1e82444299ac32f 762876 desktop-defaults-mx-kde_20.07.04.tar.xz
 Files:
- d012c7a4d9e611ce342c6df438c518c6 457212 desktop-defaults-mx-kde_20.07.04.tar.xz
+ ce2e90e5451aa0afa3fc075a35e52dde 762876 desktop-defaults-mx-kde_20.07.04.tar.xz
