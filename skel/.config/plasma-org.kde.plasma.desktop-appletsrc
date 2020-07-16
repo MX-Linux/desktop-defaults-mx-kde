@@ -21,8 +21,7 @@ PreloadWeight=34
 [Containments][1][Wallpaper][org.kde.image][General]
 Image=file:///usr/share/backgrounds/mx_blue.jpg
 
-[Containments][11]
-activityId=
+[Containments][11]activityId=
 formfactor=2
 immutability=1
 lastScreen=0
@@ -171,11 +170,9 @@ localPath=/home/dolphin/.local/share/plasma_icons/systemsettings (11).desktop
 
 [Containments][2][Applets][5][Configuration][Configuration]
 PreloadWeight=0
-localPath=/home/demo/.local/share/plasma_icons/systemsettings.desktop
 url=file:///usr/share/applications/systemsettings.desktop
 
 [Containments][2][Applets][5][Configuration][General]
-localPath=/home/demo/.local/share/plasma_icons/systemsettings.desktop
 url=file:///usr/share/applications/systemsettings.desktop
 
 [Containments][2][Applets][6]
@@ -184,15 +181,12 @@ plugin=org.kde.plasma.icon
 
 [Containments][2][Applets][6][Configuration]
 immutability=1
-localPath=/home/dolphin/.local/share/plasma_icons/org.kde.dolphin (11).desktop
 
 [Containments][2][Applets][6][Configuration][Configuration]
 PreloadWeight=0
-localPath=/home/demo/.local/share/plasma_icons/org.kde.dolphin.desktop
 url=file:///usr/share/applications/org.kde.dolphin.desktop
 
 [Containments][2][Applets][6][Configuration][General]
-localPath=/home/demo/.local/share/plasma_icons/org.kde.dolphin.desktop
 url=file:///usr/share/applications/org.kde.dolphin.desktop
 
 [Containments][2][Applets][7]
@@ -205,11 +199,9 @@ localPath=/home/dolphin/.local/share/plasma_icons/firefox (15).desktop
 
 [Containments][2][Applets][7][Configuration][Configuration]
 PreloadWeight=0
-localPath=/home/demo/.local/share/plasma_icons/firefox.desktop
 url=file:///usr/share/applications/firefox.desktop
 
 [Containments][2][Applets][7][Configuration][General]
-localPath=/home/demo/.local/share/plasma_icons/firefox.desktop
 url=file:///usr/share/applications/firefox.desktop
 
 [Containments][2][Applets][8]
