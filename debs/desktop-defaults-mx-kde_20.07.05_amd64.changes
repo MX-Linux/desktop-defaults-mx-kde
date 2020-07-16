@@ -1,0 +1,46 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Format: 1.8
+Date: Thu, 16 Jul 2020 01:12:19 -0400
+Source: desktop-defaults-mx-kde
+Binary: desktop-defaults-mx-kde
+Architecture: source all
+Version: 20.07.05
+Distribution: mx
+Urgency: medium
+Maintainer: dolphinoracle <dolphinoracle@gmail.com>
+Changed-By: Adrian <adrian@mxlinux.org>
+Description:
+ desktop-defaults-mx-kde - Metapackage for desktop defaults for MX Linux KDE/plasma.
+Changes:
+ desktop-defaults-mx-kde (20.07.05) mx; urgency=medium
+ .
+   * Removed ID and generalized home paths
+Checksums-Sha1:
+ 4fa83249de413121e502d5d0d0739b4c45340717 1223 desktop-defaults-mx-kde_20.07.05.dsc
+ e6e6d6e947a32b936a04ad448131cb5d673af20a 151204 desktop-defaults-mx-kde_20.07.05.tar.xz
+ 775fa6c2b4e39cc478e1775a7c321a80e74b00a9 152008 desktop-defaults-mx-kde_20.07.05_all.deb
+ 7ae41b8e1fc9fff719270b19615572e835aba2a4 5186 desktop-defaults-mx-kde_20.07.05_amd64.buildinfo
+Checksums-Sha256:
+ 1997afc3bae79c18cb5b1e7db15230cc544fb0574dc49d9ec61359786ecaaaba 1223 desktop-defaults-mx-kde_20.07.05.dsc
+ 30c41819dc330ecadd56d18f835f553a92763fca85fb3fd79797e1b9ba6cc38d 151204 desktop-defaults-mx-kde_20.07.05.tar.xz
+ e991d6a77373ff63e41cf115f9742c7447ccfb4bfa91202c065b3918dc08ac62 152008 desktop-defaults-mx-kde_20.07.05_all.deb
+ c7378b3cf0fc1405fe0a66836d5b9238f8cb2e05ad6aeccfbbee11c12678459a 5186 desktop-defaults-mx-kde_20.07.05_amd64.buildinfo
+Files:
+ a774e8c57eb7a9f0841011c326f5f60e 1223 system optional desktop-defaults-mx-kde_20.07.05.dsc
+ 29f2424f04f99fb74b41fc6510ead573 151204 system optional desktop-defaults-mx-kde_20.07.05.tar.xz
+ b76ee3b53f582c54091cf63ca2647250 152008 system optional desktop-defaults-mx-kde_20.07.05_all.deb
+ 2351a40e8f667202334f9ec7307fc0ff 5186 system optional desktop-defaults-mx-kde_20.07.05_amd64.buildinfo
+
+-----BEGIN PGP SIGNATURE-----
+
+iQFHBAEBCgAxFiEE8ndToY6S45N+YzXncJOMeAZ57pgFAl8P4gMTHGFkcmlhbkBt
+eGxpbnV4Lm9yZwAKCRBwk4x4BnnumMftCADGunG5I7wUo5LY4yXVqLmhNsqy26Mm
+5H0nduQ4tRxeZcjzEpdO07avVFD/nTsidprT9rpv8qNSgms1Jo3X4VOzxZRZ8sO5
+ez8GpaUmQBXMs8hnR7jtSysgB+BT6RKSq7d0BiZaKbN0uD1nXGJyiwbpy7GpyrsD
+nnOBaCHfIJ9761S0SZO12AcO1rTOdcvnTwyy6qUDHSU4NVzrbP6fM+bHS/Kctv0l
+utIeDGalcfzIOV58gcANBCgjLxpeiq8XvjFtAYIUxZCfnWgbtH7vqukhoB3kI/bC
+rPU7OGiHIfiLJscOLGFJQ5g2g0MAmLP9N32iHc0ucFZYtu/26LW5EC8z
+=t9sC
+-----END PGP SIGNATURE-----

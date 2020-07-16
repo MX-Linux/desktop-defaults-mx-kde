@@ -7,7 +7,7 @@ wheel:Vertical;NoModifier=org.kde.switchdesktop
 RightButton;NoModifier=org.kde.contextmenu
 
 [Containments][1]
-activityId=0567dee6-642d-4975-9a26-bac8d14a8ade
+activityId=
 formfactor=0
 immutability=1
 lastScreen=0
@@ -21,7 +21,8 @@ PreloadWeight=34
 [Containments][1][Wallpaper][org.kde.image][General]
 Image=file:///usr/share/backgrounds/mx_blue.jpg
 
-[Containments][11]activityId=
+[Containments][11]
+activityId=
 formfactor=2
 immutability=1
 lastScreen=0
@@ -166,7 +167,7 @@ plugin=org.kde.plasma.icon
 
 [Containments][2][Applets][5][Configuration]
 immutability=1
-localPath=/home/dolphin/.local/share/plasma_icons/systemsettings (11).desktop
+localPath=$HOME/.local/share/plasma_icons/systemsettings (11).desktop
 
 [Containments][2][Applets][5][Configuration][Configuration]
 PreloadWeight=0
@@ -195,7 +196,7 @@ plugin=org.kde.plasma.icon
 
 [Containments][2][Applets][7][Configuration]
 immutability=1
-localPath=/home/dolphin/.local/share/plasma_icons/firefox (15).desktop
+localPath=$HOME/.local/share/plasma_icons/firefox (15).desktop
 
 [Containments][2][Applets][7][Configuration][Configuration]
 PreloadWeight=0

@@ -1,3 +1,9 @@
+desktop-defaults-mx-kde (20.07.05) mx; urgency=medium
+
+  * Removed ID and generalized home paths
+
+ -- Adrian <adrian@mxlinux.org>  Thu, 16 Jul 2020 01:12:19 -0400
+
 desktop-defaults-mx-kde (20.07.04) mx; urgency=medium
 
   * revised defaults for new look-and-feel package 
