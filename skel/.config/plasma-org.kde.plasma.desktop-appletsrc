@@ -54,7 +54,7 @@ PreloadWeight=18
 
 [Containments][2][Applets][3]
 immutability=1
-plugin=org.kde.plasma.kickoff
+plugin=org.kde.plasma.kicker
 
 [Containments][2][Applets][3][Configuration]
 PreloadWeight=97
@@ -66,7 +66,7 @@ DialogWidth=720
 [Containments][2][Applets][3][Configuration][General]
 favorites=applications:conky-toggle.desktop,applications:libreoffice-startcenter.desktop,applications:mx-tools.desktop,applications:mx-packageinstaller.desktop,applications:Help.desktop,applications:org.kde.konsole.desktop,applications:org.kde.ksysguard.desktop,applications:Quick_System_Info.desktop
 icon=/usr/local/share/icons/mxfcelogo-rounded.png
-showAppsByName=true
+limitDepth=true
 systemApplications=systemsettings.desktop,org.kde.kinfocenter.desktop
 
 [Containments][2][Applets][3][Configuration][Shortcuts]
