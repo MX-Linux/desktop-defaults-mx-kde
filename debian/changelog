@@ -1,3 +1,9 @@
+desktop-defaults-mx-kde (20.07.07) mx; urgency=medium
+
+  * add default wallpaper when installing from repo 
+
+ -- Dolphin Oracle  <dolphin@littlebyte>  Sat, 01 Aug 2020 17:12:24 -0400
+
 desktop-defaults-mx-kde (20.07.06) mx; urgency=medium
 
   * modified defaults files locations 
