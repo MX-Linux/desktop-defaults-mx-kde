@@ -1,4 +1,5 @@
 skel	etc
 xdg  	etc
 breeze	usr/share/sddm/themes
+monochrome usr/share/sddm/themes
 bin/*	usr/bin

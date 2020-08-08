@@ -1,3 +1,9 @@
+desktop-defaults-mx-kde (20.0.01) mx; urgency=medium
+
+  * add monochrome sddm theme
+
+ -- Dolphin Oracle  <dolphin@littlebyte>  Fri, 07 Aug 2020 21:48:59 -0400
+
 desktop-defaults-mx-kde (20.07.07) mx; urgency=medium
 
   * add default wallpaper when installing from repo 
