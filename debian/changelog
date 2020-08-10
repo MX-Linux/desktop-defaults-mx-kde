@@ -1,3 +1,10 @@
+desktop-defaults-mx-kde (20.08.02) mx; urgency=medium
+
+  * fix cntrl+alt+t for terminal
+  * add background to default sddm theme
+
+ -- Dolphin Oracle  <dolphin@littlebyte>  Mon, 10 Aug 2020 19:13:07 -0400
+
 desktop-defaults-mx-kde (20.08.01) mx; urgency=medium
 
   * add monochrome sddm theme
