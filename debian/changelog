@@ -1,3 +1,9 @@
+desktop-defaults-mx-kde (21.03.01) mx; urgency=medium
+
+  * update default panel config (launchers moved to taskmanager config) 
+
+ -- Dolphin Oracle <dolphinoracle@gmail.com>  Sat, 27 Mar 2021 10:20:35 -0400
+
 desktop-defaults-mx-kde (20.08.02) mx; urgency=medium
 
   * fix cntrl+alt+t for terminal
