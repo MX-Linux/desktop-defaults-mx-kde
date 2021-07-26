@@ -1,3 +1,9 @@
+desktop-defaults-mx-kde (21.07.01) mx; urgency=medium
+
+  * Papirus-mxblue icons 
+
+ -- Dolphin Oracle <dolphinoracle@gmail.com>  Sun, 25 Jul 2021 20:17:49 -0400
+
 desktop-defaults-mx-kde (21.03.01) mx; urgency=medium
 
   * update default panel config (launchers moved to taskmanager config) 
