@@ -18,29 +18,29 @@ Changes:
  .
    * Change wallpaper to Honesty
 Checksums-Sha1:
- 40dbd51e78d2393e2b3499c47a42a6ce7d57646c 1214 desktop-defaults-mx-kde_21.08.dsc
- 30d27a13170fdacad5363b5c14779d096fc33801 1564552 desktop-defaults-mx-kde_21.08.tar.xz
- 73448a04be7c5fbb362274eada961bcaa78168a8 1566328 desktop-defaults-mx-kde_21.08_all.deb
- a18730e7f0235843f1c251c0e653725b7ae45cc4 5397 desktop-defaults-mx-kde_21.08_amd64.buildinfo
+ 92bcd65b0d9bf85e13873b03390300181745c331 1214 desktop-defaults-mx-kde_21.08.dsc
+ 15fec6013f8a13b0efd1f56fb53b3e7e1b566cf4 1424108 desktop-defaults-mx-kde_21.08.tar.xz
+ 3e0ae14f99af07d5952c7fdab9b1ece333c6e9e7 1425720 desktop-defaults-mx-kde_21.08_all.deb
+ 4245d00193449a04d9092f31e74f89f5043ece98 5397 desktop-defaults-mx-kde_21.08_amd64.buildinfo
 Checksums-Sha256:
- 37b025639c56470c13707ddf0bcef95ba828662719e003d8f01ed26e20a47185 1214 desktop-defaults-mx-kde_21.08.dsc
- 58090f9150087cc7bb768b4092477424229ab850bd3c890eb2227802ce169f81 1564552 desktop-defaults-mx-kde_21.08.tar.xz
- 1a281fc397a8a826ff240abdcfb048fbf6e6c96d783bc8dd2bdeac2da4dad8da 1566328 desktop-defaults-mx-kde_21.08_all.deb
- a942d065739be124e6123ac5e4ac95f355157c60a937319fdfd32dbc07cf14ce 5397 desktop-defaults-mx-kde_21.08_amd64.buildinfo
+ a2eb0018099b9c9cf18c355f417c34b35e9b9816f664430cc24b0bb7ad54e3df 1214 desktop-defaults-mx-kde_21.08.dsc
+ 9a00aca79f47c8757525fcfad2264d73db87ec06a16395838ddbf527739436bd 1424108 desktop-defaults-mx-kde_21.08.tar.xz
+ f9436003d1de3ab46e98260188243ad73676a1741230c595bcb2ef3e12caa4a2 1425720 desktop-defaults-mx-kde_21.08_all.deb
+ 0f79c4c1b631c283d4efab33beec3c57b5745b956a77d74f570877c924ff063e 5397 desktop-defaults-mx-kde_21.08_amd64.buildinfo
 Files:
- 64e7e236db31ed200de73b36bc7c2721 1214 system optional desktop-defaults-mx-kde_21.08.dsc
- 8cc48f3ff89fd2f418f9c3ee48b2f194 1564552 system optional desktop-defaults-mx-kde_21.08.tar.xz
- 0a5ea73c13ca205b8d750e96ca50f580 1566328 system optional desktop-defaults-mx-kde_21.08_all.deb
- cbd5c74758f900187e96d604c9bc4c65 5397 system optional desktop-defaults-mx-kde_21.08_amd64.buildinfo
+ fdeed7d2e65bcdc4d44a6e469c545b15 1214 system optional desktop-defaults-mx-kde_21.08.dsc
+ c14215ddfa4fadf075e8e0dae081edd9 1424108 system optional desktop-defaults-mx-kde_21.08.tar.xz
+ f6c3292387446c20bfa8322c4d73b14f 1425720 system optional desktop-defaults-mx-kde_21.08_all.deb
+ e371eecc4708182ba4cf6251d2402365 5397 system optional desktop-defaults-mx-kde_21.08_amd64.buildinfo
 
 -----BEGIN PGP SIGNATURE-----
 
-iQFHBAEBCgAxFiEE8ndToY6S45N+YzXncJOMeAZ57pgFAmEgYJkTHGFkcmlhbkBt
-eGxpbnV4Lm9yZwAKCRBwk4x4BnnumO3lCACXupTkAlyAbZmSEQM5TQV3qrmm4G02
-tSASxXAwRT26tzuWUIropDrIUAk80avHRsdhCjz4aIpePtfs6CEogUbJmu6xAn1v
-CcHwISzsxDACSmMPCr9BPoCcUtyEcWGB/yaqYHJI+4saF3mlzPdYrXJH5BUh54F6
-KFVABrrck7dKWfPIDMvAG6Gjj6WBb5+o2obSudT2hwHSA4TeHfi+Bh3y2jPSUK8S
-4G8fUfuO4L6Ufod54kPgmeAYdkddQcnCnBAi2/Dne0QyeBuk+krMksSUWmEiUvYr
-gGtz2R5CFl0+ejAGoqcs0QjdfWlhnKvKo/zc17YG+4BsfbioYrGkKAyS
-=lXSk
+iQFHBAEBCgAxFiEE8ndToY6S45N+YzXncJOMeAZ57pgFAmEgYPYTHGFkcmlhbkBt
+eGxpbnV4Lm9yZwAKCRBwk4x4BnnumOMFCACsBVrBe/ktFE2xW6gVFEWaSYTnEcxP
+d+6Xfr5zu4NYqlocwqtw/19ANT570Kn9pTOWtMImZRm6YBQX9nFYHD1C2cd9WE4T
+UF0yV9LpE6Reg/4A/nmCj2/DQJzRpKOVApBQ3Zjvofb/eqbugUMi6c5pkPSoWxYW
+Yi+fN65WyosZgQUVyTJHwWO8HQxOzrCejdJn3bWkmtw+K/8t71qclMVx9E8PIGA2
+D38AvwEaCCeXUJekFG/EQvM1H8Gov1HoF5NBgWkoOM1lAVKEH5QzD98DYP62UIF8
+GaII+dDJMIg/I+tLmbl5VTShGbwn8fC1zAh8INAvutq3ITAxyjrHTVHB
+=d5S8
 -----END PGP SIGNATURE-----
