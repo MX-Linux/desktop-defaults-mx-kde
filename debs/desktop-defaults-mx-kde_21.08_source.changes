@@ -15,26 +15,26 @@ Changes:
  .
    * Change wallpaper to Honesty
 Checksums-Sha1:
- e41de52cf19ad25ca9e199438cbdd3221a580a66 1211 desktop-defaults-mx-kde_21.08.dsc
- 7a0194419893ed2bd49a19fd013c27040a9a5b05 215388 desktop-defaults-mx-kde_21.08.tar.xz
- 21317e6555a13d4214ed107b1b3ffabe7cf55352 5394 desktop-defaults-mx-kde_21.08_amd64.buildinfo
+ 40dbd51e78d2393e2b3499c47a42a6ce7d57646c 1214 desktop-defaults-mx-kde_21.08.dsc
+ 30d27a13170fdacad5363b5c14779d096fc33801 1564552 desktop-defaults-mx-kde_21.08.tar.xz
+ a18730e7f0235843f1c251c0e653725b7ae45cc4 5397 desktop-defaults-mx-kde_21.08_amd64.buildinfo
 Checksums-Sha256:
- f7819b3618fb03afa5686fdf9c48143dd37fc5b038b38b5a688053986b63ac31 1211 desktop-defaults-mx-kde_21.08.dsc
- 1eb856f5bd510463c97596a144e98177910368aa50427d1b74d667b597ae8588 215388 desktop-defaults-mx-kde_21.08.tar.xz
- f8192946c2c4799cd454d02665544f171b00bdc58e8d22be5dd823452de65d42 5394 desktop-defaults-mx-kde_21.08_amd64.buildinfo
+ 37b025639c56470c13707ddf0bcef95ba828662719e003d8f01ed26e20a47185 1214 desktop-defaults-mx-kde_21.08.dsc
+ 58090f9150087cc7bb768b4092477424229ab850bd3c890eb2227802ce169f81 1564552 desktop-defaults-mx-kde_21.08.tar.xz
+ a942d065739be124e6123ac5e4ac95f355157c60a937319fdfd32dbc07cf14ce 5397 desktop-defaults-mx-kde_21.08_amd64.buildinfo
 Files:
- b7db9fb9cfbfd1188fa4a1cbcaa0adf9 1211 system optional desktop-defaults-mx-kde_21.08.dsc
- 8b6cb1f863341709059eae65f4a2b49c 215388 system optional desktop-defaults-mx-kde_21.08.tar.xz
- 10f31ada8fa544260eac4d74a5596687 5394 system optional desktop-defaults-mx-kde_21.08_amd64.buildinfo
+ 64e7e236db31ed200de73b36bc7c2721 1214 system optional desktop-defaults-mx-kde_21.08.dsc
+ 8cc48f3ff89fd2f418f9c3ee48b2f194 1564552 system optional desktop-defaults-mx-kde_21.08.tar.xz
+ cbd5c74758f900187e96d604c9bc4c65 5397 system optional desktop-defaults-mx-kde_21.08_amd64.buildinfo
 
 -----BEGIN PGP SIGNATURE-----
 
-iQFHBAEBCgAxFiEE8ndToY6S45N+YzXncJOMeAZ57pgFAmEgXCATHGFkcmlhbkBt
-eGxpbnV4Lm9yZwAKCRBwk4x4BnnumIWDB/47xhWBjrCbcAkNRwcnaMozrl2zCzsj
-lm/fV9AUWe5pmsmACcNRD3VqMndvr9peDPhmqKEHrwuNig0DyVCtWOhH24OS2IvR
-EO82LNOCumlyLgCGf1xgJdRwpIyEdFmgKU0tDqB2EOveT6jvZpPbhO3xdWSVMgOv
-OfKybok+FVxQM20h7eNBfzNsBxCgCXES9zY5XqsVrfMB1Nw8JnctaGeo/BA5Yx6J
-W+90vlyTPMOVXaRC95+2QZoGZvzlZ2D3BCD7nf/rD6zROes0oPrKNOv1OJL3VyxJ
-QrMGN01J2SCK2VO6UYq6hDEgB8xs5RY6zlvRgSxcgCXAg4qyfpi7VI1b
-=VTBx
+iQFHBAEBCgAxFiEE8ndToY6S45N+YzXncJOMeAZ57pgFAmEgYJsTHGFkcmlhbkBt
+eGxpbnV4Lm9yZwAKCRBwk4x4BnnumEGVB/9/eZ3vanSTqB/6R0JtVx2Jkl6pJVAe
+Ue1CHEd0xjR1JaZOg62rp658/FJHwPThb1WbkvIJtCGPO47NhOrBMo3qmhtFfxAV
+UUKzUObHGJgmKjHmqvHSnS6sWzVb3orfdkf3dcX0MQrHWDSlqa71SyBBpqEByU+F
+fW+dlvYAUZBoCI7Mk4277BitSa3XmaSna3Dz899X/dHXchKlVGNUN7lFWC8nrs47
+a2+qMG9ad1mtETvbKKMbpTb2FCkIpfrsXjQabPu49/XeLhUknuI4hKvvtBMGQnnc
+mjqQhN0CJ5wNM0ZT1Uk5nR9JzWHzXQ5EPcNdwd41TEUIQfUQ0OAez+l2
+=qwz0
 -----END PGP SIGNATURE-----
