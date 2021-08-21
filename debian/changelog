@@ -1,3 +1,9 @@
+desktop-defaults-mx-kde (21.08) mx; urgency=medium
+
+  * Change wallpaper to Honesty
+
+ -- Adrian <adrian@mxlinux.org>  Fri, 20 Aug 2021 21:49:07 -0400
+
 desktop-defaults-mx-kde (21.07.01) mx; urgency=medium
 
   * Papirus-mxblue icons 
