@@ -1,3 +1,9 @@
+desktop-defaults-mx-kde (21.08.01) mx; urgency=medium
+
+  * Set shortcut for ksnip
+
+ -- Adrian <adrian@mxlinux.org>  Fri, 20 Aug 2021 23:17:22 -0400
+
 desktop-defaults-mx-kde (21.08) mx; urgency=medium
 
   * Change wallpaper to Honesty

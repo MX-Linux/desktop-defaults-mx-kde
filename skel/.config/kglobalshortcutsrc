@@ -20,14 +20,6 @@ Show System Activity=Ctrl+Esc,Ctrl+Esc,Show System Activity
 _k_friendly_name=KDE Daemon
 display=Display\tMeta+P,Display\tMeta+P,Switch Display
 
-[khotkeys]
-_k_friendly_name=KDE Daemon
-{0512d3b6-d4be-41e6-a887-c13d31a9786c}=Meta+Shift+Print,none,Take Rectangular Region Screenshot
-{3545f7d9-2cb7-4806-82bc-690e94263e6e}=Meta+Print,none,Take Active Window Screenshot
-{996c8d95-cda4-423c-8806-6b8749ff32cc}=Print,none,Start Screenshot Tool
-{b49d6cf0-643c-4dcd-ba0a-f2082b550398}=Shift+Print,none,Take Full Screen Screenshot
-{d03619b6-9b3c-48cc-9d9c-a2aadb485550}=Search,none,Search
-
 [kmix]
 _k_friendly_name=Audio Volume
 decrease_microphone_volume=Microphone Volume Down,Microphone Volume Down,Decrease Microphone Volume
@@ -214,6 +206,10 @@ PowerOff=Power Off,Power Off,Power Off
 Sleep=Sleep,Sleep,Suspend
 Toggle Keyboard Backlight=Keyboard Light On/Off,Keyboard Light On/Off,Toggle Keyboard Backlight
 _k_friendly_name=Power Management
+
+[org.ksnip.ksnip.desktop]
+_k_friendly_name=ksnip
+_launch=Print,,ksnip
 
 [plasmashell]
 _k_friendly_name=Plasma
