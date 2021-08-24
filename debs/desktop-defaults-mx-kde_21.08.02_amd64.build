@@ -1,0 +1,85 @@
+ dpkg-buildpackage -us -uc -ui
+dpkg-buildpackage: info: source package desktop-defaults-mx-kde
+dpkg-buildpackage: info: source version 21.08.02
+dpkg-buildpackage: info: source distribution mx
+dpkg-buildpackage: info: source changed by Dolphin Oracle <dolphinoracle@gmail.com>
+ dpkg-source --before-build .
+dpkg-buildpackage: info: host architecture amd64
+ fakeroot debian/rules clean
+dh clean
+dh: warning: Compatibility levels before 10 are deprecated (level 9 in use)
+   dh_clean
+dh_clean: warning: Compatibility levels before 10 are deprecated (level 9 in use)
+ dpkg-source -b .
+dpkg-source: info: using source format '3.0 (native)'
+dpkg-source: info: building desktop-defaults-mx-kde in desktop-defaults-mx-kde_21.08.02.tar.xz
+dpkg-source: info: building desktop-defaults-mx-kde in desktop-defaults-mx-kde_21.08.02.dsc
+ debian/rules build
+dh build
+dh: warning: Compatibility levels before 10 are deprecated (level 9 in use)
+   dh_update_autotools_config
+ fakeroot debian/rules binary
+dh binary
+dh: warning: Compatibility levels before 10 are deprecated (level 9 in use)
+   dh_testroot
+   dh_prep
+   dh_install
+dh_install: warning: Compatibility levels before 10 are deprecated (level 9 in use)
+   dh_installdocs
+dh_installdocs: warning: Compatibility levels before 10 are deprecated (level 9 in use)
+   dh_installchangelogs
+   dh_perl
+   dh_link
+   dh_strip_nondeterminism
+   dh_compress
+dh_compress: warning: Compatibility levels before 10 are deprecated (level 9 in use)
+   dh_fixperms
+   dh_missing
+dh_missing: warning: Compatibility levels before 10 are deprecated (level 9 in use)
+   dh_installdeb
+dh_installdeb: warning: Compatibility levels before 10 are deprecated (level 9 in use)
+   dh_gencontrol
+   dh_md5sums
+   dh_builddeb
+dpkg-deb: building package 'desktop-defaults-mx-kde' in '../desktop-defaults-mx-kde_21.08.02_all.deb'.
+ dpkg-genbuildinfo
+ dpkg-genchanges  >../desktop-defaults-mx-kde_21.08.02_amd64.changes
+dpkg-genchanges: info: including full source code in upload
+ dpkg-source --after-build .
+dpkg-buildpackage: info: full upload; Debian-native package (full source is included)
+Now running lintian desktop-defaults-mx-kde_21.08.02_amd64.changes ...
+E: desktop-defaults-mx-kde changes: bad-distribution-in-changes-file mx
+E: desktop-defaults-mx-kde: bogus-mail-host-in-debian-changelog dolphin@littlebyte
+E: desktop-defaults-mx-kde: bogus-mail-host-in-debian-changelog dolphin@littlebyte
+E: desktop-defaults-mx-kde: bogus-mail-host-in-debian-changelog dolphin@littlebyte
+E: desktop-defaults-mx-kde: bogus-mail-host-in-debian-changelog dolphin@littlebyte
+E: desktop-defaults-mx-kde: extended-description-is-empty
+E: desktop-defaults-mx-kde: package-contains-file-in-etc-skel etc/skel/.config/
+E: desktop-defaults-mx-kde: package-contains-file-in-etc-skel etc/skel/.config/autostart/
+E: desktop-defaults-mx-kde: package-contains-file-in-etc-skel etc/skel/.config/autostart/org.kde.yakuake.desktop
+E: desktop-defaults-mx-kde: package-contains-file-in-etc-skel etc/skel/.config/emaildefaults
+E: desktop-defaults-mx-kde: package-contains-file-in-etc-skel etc/skel/.config/kcminputrc
+E: desktop-defaults-mx-kde: package-contains-file-in-etc-skel etc/skel/.config/kdeglobals
+E: desktop-defaults-mx-kde: package-contains-file-in-etc-skel etc/skel/.config/kglobalshortcutsrc
+E: desktop-defaults-mx-kde: package-contains-file-in-etc-skel etc/skel/.config/klaunchrc
+E: desktop-defaults-mx-kde: package-contains-file-in-etc-skel etc/skel/.config/komparerc
+E: desktop-defaults-mx-kde: package-contains-file-in-etc-skel etc/skel/.config/kscreenlockerrc
+E: desktop-defaults-mx-kde: package-contains-file-in-etc-skel etc/skel/.config/ksmserverrc
+E: desktop-defaults-mx-kde: package-contains-file-in-etc-skel etc/skel/.config/kwalletrc
+E: desktop-defaults-mx-kde: package-contains-file-in-etc-skel etc/skel/.config/kwinrc
+E: desktop-defaults-mx-kde: package-contains-file-in-etc-skel etc/skel/.config/plasma-org.kde.plasma.desktop-appletsrc
+E: desktop-defaults-mx-kde: package-contains-file-in-etc-skel etc/skel/.config/plasmarc
+E: desktop-defaults-mx-kde: package-contains-file-in-etc-skel etc/skel/.config/yakuakerc
+E: desktop-defaults-mx-kde: package-contains-file-in-etc-skel etc/skel/.local/
+E: desktop-defaults-mx-kde: package-contains-file-in-etc-skel etc/skel/.local/share/
+E: desktop-defaults-mx-kde: package-contains-file-in-etc-skel etc/skel/.local/share/kglobalaccel/
+E: desktop-defaults-mx-kde: package-contains-file-in-etc-skel etc/skel/.local/share/kglobalaccel/org.kde.konsole.desktop
+W: desktop-defaults-mx-kde source: ancient-standards-version 3.9.4 (released 2012-09-19) (current is 4.5.1)
+W: desktop-defaults-mx-kde source: debhelper-but-no-misc-depends desktop-defaults-mx-kde
+W: desktop-defaults-mx-kde: no-manual-page usr/bin/set_default_kde_wallpaper-mx.sh
+W: desktop-defaults-mx-kde source: no-nmu-in-changelog
+W: desktop-defaults-mx-kde source: package-uses-deprecated-debhelper-compat-version 9
+W: desktop-defaults-mx-kde: script-with-language-extension usr/bin/set_default_kde_wallpaper-mx.sh
+W: desktop-defaults-mx-kde source: source-nmu-has-incorrect-version-number 21.08.02
+W: desktop-defaults-mx-kde: unknown-section system
+Finished running lintian.
