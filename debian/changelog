@@ -1,3 +1,9 @@
+desktop-defaults-mx-kde (21.08.02) mx; urgency=medium
+
+  * adjust default app for mp3 
+
+ -- Dolphin Oracle <dolphinoracle@gmail.com>  Mon, 23 Aug 2021 21:42:49 -0400
+
 desktop-defaults-mx-kde (21.08.01) mx; urgency=medium
 
   * Set shortcut for ksnip
