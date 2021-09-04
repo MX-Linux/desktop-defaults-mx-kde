@@ -1,0 +1,31 @@
+Format: 1.8
+Date: Fri, 03 Sep 2021 23:59:16 -0400
+Source: desktop-defaults-mx-kde
+Binary: desktop-defaults-mx-kde
+Architecture: source all
+Version: 21.09.01
+Distribution: mx
+Urgency: medium
+Maintainer: dolphinoracle <dolphinoracle@gmail.com>
+Changed-By: Dolphin Oracle <dolphinoracle@gmail.com>
+Description:
+ desktop-defaults-mx-kde - Metapackage for desktop defaults for MX Linux KDE/plasma.
+Changes:
+ desktop-defaults-mx-kde (21.09.01) mx; urgency=medium
+ .
+   * update kdeglobals for comfort color scheme
+Checksums-Sha1:
+ e34f1a7e9bff2c67a1d0557f3e61215b08443a3c 664 desktop-defaults-mx-kde_21.09.01.dsc
+ cd170cec59666bcf2a7236b87dfcb4d9382cbaef 1424060 desktop-defaults-mx-kde_21.09.01.tar.xz
+ 231956d7f8ec226e63d58ff08b08d01dd849e875 1425668 desktop-defaults-mx-kde_21.09.01_all.deb
+ ac77c4fb4fe97ff401d1021e708d86ba452015b8 5510 desktop-defaults-mx-kde_21.09.01_amd64.buildinfo
+Checksums-Sha256:
+ 912cada20e8af0f8343f6d346fb9a65b522ddb506d7b8908075cb72a6083ff6a 664 desktop-defaults-mx-kde_21.09.01.dsc
+ 15e9496932ed796c90357d67654b3d9ab67bb3479c50b195499a4f8027323af9 1424060 desktop-defaults-mx-kde_21.09.01.tar.xz
+ 7f233279297e5873ce86769de9eff0351238ade150818a3c56cc1cefe3b0fd50 1425668 desktop-defaults-mx-kde_21.09.01_all.deb
+ 0acd5e7b4c0d0bff11357f385e21ef1ba1943c5978a7d007a6cda14d01e62d02 5510 desktop-defaults-mx-kde_21.09.01_amd64.buildinfo
+Files:
+ 91f3677aa9d32560d4ceac2bad72f2c6 664 system optional desktop-defaults-mx-kde_21.09.01.dsc
+ 16acb61e682e84f2a6f5e59036758e10 1424060 system optional desktop-defaults-mx-kde_21.09.01.tar.xz
+ 9709a61862625965160a80c0e93e1712 1425668 system optional desktop-defaults-mx-kde_21.09.01_all.deb
+ 0c2dc5ba17693c4ddc07d718ae3d510d 5510 system optional desktop-defaults-mx-kde_21.09.01_amd64.buildinfo

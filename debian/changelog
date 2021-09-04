@@ -1,3 +1,9 @@
+desktop-defaults-mx-kde (21.09.01) mx; urgency=medium
+
+  * update kdeglobals for comfort color scheme
+
+ -- Dolphin Oracle <dolphinoracle@gmail.com>  Fri, 03 Sep 2021 23:59:16 -0400
+
 desktop-defaults-mx-kde (21.08.02) mx; urgency=medium
 
   * adjust default app for mp3 

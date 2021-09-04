@@ -1,6 +1,6 @@
  dpkg-buildpackage -us -uc -ui
 dpkg-buildpackage: info: source package desktop-defaults-mx-kde
-dpkg-buildpackage: info: source version 21.08.02
+dpkg-buildpackage: info: source version 21.09.01
 dpkg-buildpackage: info: source distribution mx
 dpkg-buildpackage: info: source changed by Dolphin Oracle <dolphinoracle@gmail.com>
  dpkg-source --before-build .
@@ -12,8 +12,8 @@ dh: warning: Compatibility levels before 10 are deprecated (level 9 in use)
 dh_clean: warning: Compatibility levels before 10 are deprecated (level 9 in use)
  dpkg-source -b .
 dpkg-source: info: using source format '3.0 (native)'
-dpkg-source: info: building desktop-defaults-mx-kde in desktop-defaults-mx-kde_21.08.02.tar.xz
-dpkg-source: info: building desktop-defaults-mx-kde in desktop-defaults-mx-kde_21.08.02.dsc
+dpkg-source: info: building desktop-defaults-mx-kde in desktop-defaults-mx-kde_21.09.01.tar.xz
+dpkg-source: info: building desktop-defaults-mx-kde in desktop-defaults-mx-kde_21.09.01.dsc
  debian/rules build
 dh build
 dh: warning: Compatibility levels before 10 are deprecated (level 9 in use)
@@ -41,13 +41,13 @@ dh_installdeb: warning: Compatibility levels before 10 are deprecated (level 9 i
    dh_gencontrol
    dh_md5sums
    dh_builddeb
-dpkg-deb: building package 'desktop-defaults-mx-kde' in '../desktop-defaults-mx-kde_21.08.02_all.deb'.
+dpkg-deb: building package 'desktop-defaults-mx-kde' in '../desktop-defaults-mx-kde_21.09.01_all.deb'.
  dpkg-genbuildinfo
- dpkg-genchanges  >../desktop-defaults-mx-kde_21.08.02_amd64.changes
+ dpkg-genchanges  >../desktop-defaults-mx-kde_21.09.01_amd64.changes
 dpkg-genchanges: info: including full source code in upload
  dpkg-source --after-build .
 dpkg-buildpackage: info: full upload; Debian-native package (full source is included)
-Now running lintian desktop-defaults-mx-kde_21.08.02_amd64.changes ...
+Now running lintian desktop-defaults-mx-kde_21.09.01_amd64.changes ...
 E: desktop-defaults-mx-kde changes: bad-distribution-in-changes-file mx
 E: desktop-defaults-mx-kde: bogus-mail-host-in-debian-changelog dolphin@littlebyte
 E: desktop-defaults-mx-kde: bogus-mail-host-in-debian-changelog dolphin@littlebyte
@@ -80,6 +80,6 @@ W: desktop-defaults-mx-kde: no-manual-page usr/bin/set_default_kde_wallpaper-mx.
 W: desktop-defaults-mx-kde source: no-nmu-in-changelog
 W: desktop-defaults-mx-kde source: package-uses-deprecated-debhelper-compat-version 9
 W: desktop-defaults-mx-kde: script-with-language-extension usr/bin/set_default_kde_wallpaper-mx.sh
-W: desktop-defaults-mx-kde source: source-nmu-has-incorrect-version-number 21.08.02
+W: desktop-defaults-mx-kde source: source-nmu-has-incorrect-version-number 21.09.01
 W: desktop-defaults-mx-kde: unknown-section system
 Finished running lintian.
