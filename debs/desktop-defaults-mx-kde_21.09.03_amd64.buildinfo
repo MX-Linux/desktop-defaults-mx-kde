@@ -2,19 +2,19 @@ Format: 1.0
 Source: desktop-defaults-mx-kde
 Binary: desktop-defaults-mx-kde
 Architecture: all source
-Version: 21.09.01
+Version: 21.09.03
 Checksums-Md5:
- 91f3677aa9d32560d4ceac2bad72f2c6 664 desktop-defaults-mx-kde_21.09.01.dsc
- 9709a61862625965160a80c0e93e1712 1425668 desktop-defaults-mx-kde_21.09.01_all.deb
+ d7edb643f36b08dd4c0094f87ab74d05 664 desktop-defaults-mx-kde_21.09.03.dsc
+ 51702129dbeef4cb36754b5fb3107838 1425648 desktop-defaults-mx-kde_21.09.03_all.deb
 Checksums-Sha1:
- e34f1a7e9bff2c67a1d0557f3e61215b08443a3c 664 desktop-defaults-mx-kde_21.09.01.dsc
- 231956d7f8ec226e63d58ff08b08d01dd849e875 1425668 desktop-defaults-mx-kde_21.09.01_all.deb
+ c998c78e5169fea053416e3ffe878f7c44c76356 664 desktop-defaults-mx-kde_21.09.03.dsc
+ 44346c715fa2f63c4daa9419ccf5cf0cde40b41e 1425648 desktop-defaults-mx-kde_21.09.03_all.deb
 Checksums-Sha256:
- 912cada20e8af0f8343f6d346fb9a65b522ddb506d7b8908075cb72a6083ff6a 664 desktop-defaults-mx-kde_21.09.01.dsc
- 7f233279297e5873ce86769de9eff0351238ade150818a3c56cc1cefe3b0fd50 1425668 desktop-defaults-mx-kde_21.09.01_all.deb
+ 7ded3a9cbc61e562237b8429712cd53934cfcc004dc1ac368e381bcb2695d151 664 desktop-defaults-mx-kde_21.09.03.dsc
+ 843e1bbce9fa318f41881c5297d634ba5065b7436564db5cc7644a653de64548 1425648 desktop-defaults-mx-kde_21.09.03_all.deb
 Build-Origin: Debian
 Build-Architecture: amd64
-Build-Date: Sat, 04 Sep 2021 00:00:10 -0400
+Build-Date: Sun, 12 Sep 2021 11:45:17 -0400
 Build-Tainted-By:
  merged-usr-via-aliased-dirs
  usr-local-has-libraries
@@ -192,4 +192,4 @@ Installed-Build-Depends:
 Environment:
  DEB_BUILD_OPTIONS="parallel=4"
  LANG="en_US.UTF-8"
- SOURCE_DATE_EPOCH="1630727956"
+ SOURCE_DATE_EPOCH="1631461471"
