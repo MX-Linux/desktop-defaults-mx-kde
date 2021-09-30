@@ -1,3 +1,9 @@
+desktop-defaults-mx-kde (21.09.04) mx; urgency=medium
+
+  * use honesty-muted image for sddm and lock screen
+
+ -- Adrian <adrian@mxlinux.org>  Wed, 29 Sep 2021 22:26:19 -0400
+
 desktop-defaults-mx-kde (21.09.03) mx; urgency=medium
 
   * update plasamrc with correct theme
