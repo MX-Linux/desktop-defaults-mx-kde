@@ -1,3 +1,9 @@
+desktop-defaults-mx-kde (21.10.01) mx; urgency=medium
+
+  * update kwinrc 
+
+ -- Dolphin Oracle <dolphinoracle@gmail.com>  Sat, 02 Oct 2021 14:27:59 -0400
+
 desktop-defaults-mx-kde (21.10) mx; urgency=medium
 
   * Update shortcuts for Show Desktop and KRunner
