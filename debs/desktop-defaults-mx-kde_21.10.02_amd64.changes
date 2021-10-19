@@ -1,0 +1,46 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Format: 1.8
+Date: Tue, 19 Oct 2021 09:17:45 -0400
+Source: desktop-defaults-mx-kde
+Binary: desktop-defaults-mx-kde
+Architecture: source all
+Version: 21.10.02
+Distribution: mx
+Urgency: medium
+Maintainer: dolphinoracle <dolphinoracle@gmail.com>
+Changed-By: Adrian <adrian@mxlinux.org>
+Description:
+ desktop-defaults-mx-kde - Metapackage for desktop defaults for MX Linux KDE/plasma.
+Changes:
+ desktop-defaults-mx-kde (21.10.02) mx; urgency=medium
+ .
+   * Replace Ksnip shortcuts with the ones for Spectacle
+Checksums-Sha1:
+ 359ce9ab888799be9b866ddd99750f6de9822b2d 1226 desktop-defaults-mx-kde_21.10.02.dsc
+ 9609db95eeaa1544994eb646e7b6c0518f96d0ea 2380940 desktop-defaults-mx-kde_21.10.02.tar.xz
+ 4130287daa6e4ded0ec1656d885db0ad5a6f35b3 2382576 desktop-defaults-mx-kde_21.10.02_all.deb
+ a46515d75869e282592d5399785fe995ee236139 5421 desktop-defaults-mx-kde_21.10.02_amd64.buildinfo
+Checksums-Sha256:
+ 6baa5f64932d4ee1ec1af3fef62711e4c780a46f5331fabab0076afcba58a399 1226 desktop-defaults-mx-kde_21.10.02.dsc
+ 5c7d055125e9bb90f892500e785b36489a6c522f7d70dfb50ac84d3690924abf 2380940 desktop-defaults-mx-kde_21.10.02.tar.xz
+ 6ffd39ec4accd6e96e3ba8919cb6f26afcb43d7255f0b07a7add7f0c30db2701 2382576 desktop-defaults-mx-kde_21.10.02_all.deb
+ 5e407bc21c1eda424c8c09d24e45949ee9060c02874110a71711f209dd721e83 5421 desktop-defaults-mx-kde_21.10.02_amd64.buildinfo
+Files:
+ d2985a73349862986b994b1c78219e6f 1226 system optional desktop-defaults-mx-kde_21.10.02.dsc
+ 0d76e24b4556ac6b0703cae2882114b6 2380940 system optional desktop-defaults-mx-kde_21.10.02.tar.xz
+ 2871c9e0ac5062700bfdb71356e3fb6a 2382576 system optional desktop-defaults-mx-kde_21.10.02_all.deb
+ 5f1d0ee331e6c2aa4d5c1170d651b3ab 5421 system optional desktop-defaults-mx-kde_21.10.02_amd64.buildinfo
+
+-----BEGIN PGP SIGNATURE-----
+
+iQFHBAEBCgAxFiEE8ndToY6S45N+YzXncJOMeAZ57pgFAmFuyYoTHGFkcmlhbkBt
+eGxpbnV4Lm9yZwAKCRBwk4x4BnnumMiNB/9bIaFLwn0X40taxIvsvoJQJOagW1QF
+7dU3E4og3LK5bAA5TPvzQtxt9mQSg0dBVXPVCdGWizjH5y7duI65u9c1VFC2xAXa
+Jy4KNeVdNXRNW3ZJLXRXys72hmqbTUE3afwjDUGQW01vvdSO0cjE/EidJASdxdZz
+k+ZjxqfKx+DDdNEyO6Dbvti2UqIrPBQHsqoLX/H1apPjvCBSKhHPVa6bds4lQNbd
+yuMQhJzj5m9IaOkrzRENDqHt58ZU4KYJhi5LicYp0SMMzLLX22+Zz+leP4c/2Pat
+xuzGjVx7JlSGAUSALRdDGGBJ2MY0tZk5spf4xuIat9F33d4tckQMXvAQ
+=d6HG
+-----END PGP SIGNATURE-----
