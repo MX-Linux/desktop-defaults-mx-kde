@@ -1,0 +1,31 @@
+Format: 1.8
+Date: Sat, 17 Dec 2022 11:19:59 -0500
+Source: desktop-defaults-mx-kde
+Binary: desktop-defaults-mx-kde
+Architecture: source all
+Version: 22.12.01mx21
+Distribution: mx
+Urgency: medium
+Maintainer: dolphinoracle <dolphinoracle@gmail.com>
+Changed-By: Dolphin Oracle <dolphinoracle@gmail.com>
+Description:
+ desktop-defaults-mx-kde - Metapackage for desktop defaults for MX Linux KDE/plasma.
+Changes:
+ desktop-defaults-mx-kde (22.12.01mx21) mx; urgency=medium
+ .
+   * update wallpaper to MX_Tangram
+Checksums-Sha1:
+ 2a146aedcea220f8e37ca57a321e1d08caf84519 680 desktop-defaults-mx-kde_22.12.01mx21.dsc
+ e1b51e2818e402eff762fdc6caf70a7941ff8244 2381052 desktop-defaults-mx-kde_22.12.01mx21.tar.xz
+ 6c914ccc33c0c87206e138e4a46f1c7c0e549b03 2382620 desktop-defaults-mx-kde_22.12.01mx21_all.deb
+ c1ba7151dc210da1744dec415f5b0281ab9b6f03 5813 desktop-defaults-mx-kde_22.12.01mx21_amd64.buildinfo
+Checksums-Sha256:
+ 5e6feb7419d00a52e06eee9c78762349303d53e98792d5046ff5f144f378696c 680 desktop-defaults-mx-kde_22.12.01mx21.dsc
+ c0aab03eb4be1a3cdced731b1b20aa4c17c68a237af6d073899cf2f95251596e 2381052 desktop-defaults-mx-kde_22.12.01mx21.tar.xz
+ f03d9041711eab263030ffaa2b9fcd71d2af1e4b45f5b85086e3f8fb891e77d6 2382620 desktop-defaults-mx-kde_22.12.01mx21_all.deb
+ fa7a3e37cbdd2ad73879c7cb5921bf356ac9bcf944686f58d8b7515135175965 5813 desktop-defaults-mx-kde_22.12.01mx21_amd64.buildinfo
+Files:
+ 970dbd269daecf5e8b27b1ad206fdac3 680 system optional desktop-defaults-mx-kde_22.12.01mx21.dsc
+ 67e40b149a6d3c37b6299a78fedc46d2 2381052 system optional desktop-defaults-mx-kde_22.12.01mx21.tar.xz
+ 13ffc3b4abe812041d22a1b8fbf67cb3 2382620 system optional desktop-defaults-mx-kde_22.12.01mx21_all.deb
+ 1fd327030b195c34dc7561f21b895cd8 5813 system optional desktop-defaults-mx-kde_22.12.01mx21_amd64.buildinfo
