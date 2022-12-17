@@ -1,3 +1,9 @@
+desktop-defaults-mx-kde (22.12.01mx21) mx; urgency=medium
+
+  * update wallpaper to MX_Tangram
+
+ -- Dolphin Oracle <dolphinoracle@gmail.com>  Sat, 17 Dec 2022 11:19:59 -0500
+
 desktop-defaults-mx-kde (21.10.02) mx; urgency=medium
 
   * Replace Ksnip shortcuts with the ones for Spectacle
