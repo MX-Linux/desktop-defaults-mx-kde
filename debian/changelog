@@ -1,3 +1,9 @@
+desktop-defaults-mx-kde (23.01.01mx21) mx; urgency=medium
+
+  * update monochrome background
+
+ -- Dolphin Oracle <dolphinoracle@gmail.com>  Thu, 05 Jan 2023 06:48:30 -0500
+
 desktop-defaults-mx-kde (22.12.01mx21) mx; urgency=medium
 
   * update wallpaper to MX_Tangram
