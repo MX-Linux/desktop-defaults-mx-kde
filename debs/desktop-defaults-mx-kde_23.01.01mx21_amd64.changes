@@ -1,0 +1,31 @@
+Format: 1.8
+Date: Thu, 05 Jan 2023 06:48:30 -0500
+Source: desktop-defaults-mx-kde
+Binary: desktop-defaults-mx-kde
+Architecture: source all
+Version: 23.01.01mx21
+Distribution: mx
+Urgency: medium
+Maintainer: dolphinoracle <dolphinoracle@gmail.com>
+Changed-By: Dolphin Oracle <dolphinoracle@gmail.com>
+Description:
+ desktop-defaults-mx-kde - Metapackage for desktop defaults for MX Linux KDE/plasma.
+Changes:
+ desktop-defaults-mx-kde (23.01.01mx21) mx; urgency=medium
+ .
+   * update monochrome background
+Checksums-Sha1:
+ 3f9ceb99dc60e7a498f682d0aecbb7154781b923 680 desktop-defaults-mx-kde_23.01.01mx21.dsc
+ 8f38e9af53eae5c12cd5d7ecf90af798bf0a9cdf 1469800 desktop-defaults-mx-kde_23.01.01mx21.tar.xz
+ 83b4b7a6b929f2330ee2e62453e0cc9aaf5c3ec7 1471580 desktop-defaults-mx-kde_23.01.01mx21_all.deb
+ 007bb0a93f892b7aa9869d814d24a7244650de8c 5814 desktop-defaults-mx-kde_23.01.01mx21_amd64.buildinfo
+Checksums-Sha256:
+ 844ec77eb782b00fc5ecd2efe78988809b59c90f9fcfe6b93ce43a845ad269a7 680 desktop-defaults-mx-kde_23.01.01mx21.dsc
+ 022a90cade2970b3e4461e6b51c2e89e4cd0f8cc6b0c8eb0098074466f135314 1469800 desktop-defaults-mx-kde_23.01.01mx21.tar.xz
+ 08d34da484b31f02a4d94f503a2c2fbbddba1590b478fcdeae842bee976550c6 1471580 desktop-defaults-mx-kde_23.01.01mx21_all.deb
+ 82d043893bed78e2c1be536f95069fe33564b8ec6ac364c9af9374e714802d41 5814 desktop-defaults-mx-kde_23.01.01mx21_amd64.buildinfo
+Files:
+ 494a5e6f091c8a3b453aa507311d4c88 680 system optional desktop-defaults-mx-kde_23.01.01mx21.dsc
+ 43b61ff690028c4b73ceedf57cfa37ea 1469800 system optional desktop-defaults-mx-kde_23.01.01mx21.tar.xz
+ c0f6501b7b8daf7e2e79f424a762bfa0 1471580 system optional desktop-defaults-mx-kde_23.01.01mx21_all.deb
+ 2796ca58435d247aff6fa413154d9d0f 5814 system optional desktop-defaults-mx-kde_23.01.01mx21_amd64.buildinfo

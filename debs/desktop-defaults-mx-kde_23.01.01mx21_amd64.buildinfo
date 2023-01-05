@@ -2,19 +2,19 @@ Format: 1.0
 Source: desktop-defaults-mx-kde
 Binary: desktop-defaults-mx-kde
 Architecture: all source
-Version: 22.12.01mx21
+Version: 23.01.01mx21
 Checksums-Md5:
- 970dbd269daecf5e8b27b1ad206fdac3 680 desktop-defaults-mx-kde_22.12.01mx21.dsc
- 13ffc3b4abe812041d22a1b8fbf67cb3 2382620 desktop-defaults-mx-kde_22.12.01mx21_all.deb
+ 494a5e6f091c8a3b453aa507311d4c88 680 desktop-defaults-mx-kde_23.01.01mx21.dsc
+ c0f6501b7b8daf7e2e79f424a762bfa0 1471580 desktop-defaults-mx-kde_23.01.01mx21_all.deb
 Checksums-Sha1:
- 2a146aedcea220f8e37ca57a321e1d08caf84519 680 desktop-defaults-mx-kde_22.12.01mx21.dsc
- 6c914ccc33c0c87206e138e4a46f1c7c0e549b03 2382620 desktop-defaults-mx-kde_22.12.01mx21_all.deb
+ 3f9ceb99dc60e7a498f682d0aecbb7154781b923 680 desktop-defaults-mx-kde_23.01.01mx21.dsc
+ 83b4b7a6b929f2330ee2e62453e0cc9aaf5c3ec7 1471580 desktop-defaults-mx-kde_23.01.01mx21_all.deb
 Checksums-Sha256:
- 5e6feb7419d00a52e06eee9c78762349303d53e98792d5046ff5f144f378696c 680 desktop-defaults-mx-kde_22.12.01mx21.dsc
- f03d9041711eab263030ffaa2b9fcd71d2af1e4b45f5b85086e3f8fb891e77d6 2382620 desktop-defaults-mx-kde_22.12.01mx21_all.deb
+ 844ec77eb782b00fc5ecd2efe78988809b59c90f9fcfe6b93ce43a845ad269a7 680 desktop-defaults-mx-kde_23.01.01mx21.dsc
+ 08d34da484b31f02a4d94f503a2c2fbbddba1590b478fcdeae842bee976550c6 1471580 desktop-defaults-mx-kde_23.01.01mx21_all.deb
 Build-Origin: Debian
 Build-Architecture: amd64
-Build-Date: Sat, 17 Dec 2022 11:21:04 -0500
+Build-Date: Thu, 05 Jan 2023 06:49:33 -0500
 Build-Tainted-By:
  merged-usr-via-aliased-dirs
  usr-local-has-libraries
@@ -190,6 +190,6 @@ Installed-Build-Depends:
  xz-utils (= 5.2.5-2.1~deb11u1),
  zlib1g (= 1:1.2.11.dfsg-2+deb11u2)
 Environment:
- DEB_BUILD_OPTIONS="parallel=4"
+ DEB_BUILD_OPTIONS="parallel=16"
  LANG="en_US.UTF-8"
- SOURCE_DATE_EPOCH="1671293999"
+ SOURCE_DATE_EPOCH="1672919310"

@@ -2,7 +2,7 @@ Format: 3.0 (native)
 Source: desktop-defaults-mx-kde
 Binary: desktop-defaults-mx-kde
 Architecture: all
-Version: 22.12.01mx21
+Version: 23.01.01mx21
 Maintainer: dolphinoracle <dolphinoracle@gmail.com>
 Homepage: https://mxlinux.org
 Standards-Version: 3.9.4
@@ -10,8 +10,8 @@ Build-Depends: debhelper (>= 9.20120115)
 Package-List:
  desktop-defaults-mx-kde deb system optional arch=all
 Checksums-Sha1:
- e1b51e2818e402eff762fdc6caf70a7941ff8244 2381052 desktop-defaults-mx-kde_22.12.01mx21.tar.xz
+ 8f38e9af53eae5c12cd5d7ecf90af798bf0a9cdf 1469800 desktop-defaults-mx-kde_23.01.01mx21.tar.xz
 Checksums-Sha256:
- c0aab03eb4be1a3cdced731b1b20aa4c17c68a237af6d073899cf2f95251596e 2381052 desktop-defaults-mx-kde_22.12.01mx21.tar.xz
+ 022a90cade2970b3e4461e6b51c2e89e4cd0f8cc6b0c8eb0098074466f135314 1469800 desktop-defaults-mx-kde_23.01.01mx21.tar.xz
 Files:
- 67e40b149a6d3c37b6299a78fedc46d2 2381052 desktop-defaults-mx-kde_22.12.01mx21.tar.xz
+ 43b61ff690028c4b73ceedf57cfa37ea 1469800 desktop-defaults-mx-kde_23.01.01mx21.tar.xz
