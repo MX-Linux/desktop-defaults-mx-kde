@@ -1,0 +1,40 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Format: 1.8
+Date: Mon, 09 Jan 2023 21:58:44 -0500
+Source: desktop-defaults-mx-kde
+Architecture: source
+Version: 23.01.03mx21
+Distribution: mx
+Urgency: medium
+Maintainer: dolphinoracle <dolphinoracle@gmail.com>
+Changed-By: Adrian <adrian@mxlinux.org>
+Changes:
+ desktop-defaults-mx-kde (23.01.03mx21) mx; urgency=medium
+ .
+   * Remove script to set the wallpaper
+Checksums-Sha1:
+ 4f3cb81dc519a975abaf22c2a8429ffe71b61576 1242 desktop-defaults-mx-kde_23.01.03mx21.dsc
+ 162d4278fab7b812ad253b81e915e5ccc0148025 1469432 desktop-defaults-mx-kde_23.01.03mx21.tar.xz
+ ee084dfed8c8f00358a6de6092fc9697ca3e4329 5258 desktop-defaults-mx-kde_23.01.03mx21_amd64.buildinfo
+Checksums-Sha256:
+ 43e5cd5da6a6fae6386281015732a6cebfb99326b03f609afe16020c04ac5ffb 1242 desktop-defaults-mx-kde_23.01.03mx21.dsc
+ ca4bd127913b7621be0518beecb4de1e0d021f4a8298818fe273a954c476c248 1469432 desktop-defaults-mx-kde_23.01.03mx21.tar.xz
+ 65c07a47eeb52049c35aa26a5f8c395cd37e0ffb9fcd2367771563f090bb9b12 5258 desktop-defaults-mx-kde_23.01.03mx21_amd64.buildinfo
+Files:
+ 36e5c954fa19d94fc86f4e01084c6257 1242 system optional desktop-defaults-mx-kde_23.01.03mx21.dsc
+ c5a098238668780cc3a13c0da341287d 1469432 system optional desktop-defaults-mx-kde_23.01.03mx21.tar.xz
+ 8b62e455f9223817a90912af1e6c3f43 5258 system optional desktop-defaults-mx-kde_23.01.03mx21_amd64.buildinfo
+
+-----BEGIN PGP SIGNATURE-----
+
+iQFHBAEBCgAxFiEE8ndToY6S45N+YzXncJOMeAZ57pgFAmO81KcTHGFkcmlhbkBt
+eGxpbnV4Lm9yZwAKCRBwk4x4BnnumGioCACu9WdZKivGTHO1vZ8aoaqtXPEzXVpT
+Sj/WbiUIUEqvr4htl0NX03/CmD8VlUfa3oD0E8Kl4O8Vopx3qKE84WlstMlR0hVd
+ZIePP4HEZn6Yy5ROjQOprlM12pRuyvxDa/agUNJ9glKpmDpgTlqh0riZ1j2p77sA
+HcNDCqmpsrd017wcgg2yUs38J1/Wb1R3IXC976x7l22Gf7JyAYBjn4+qEZy/9Vi1
+3DUCfmKBgcrVQCOHvtrDDdozGQ4uTHAxkIR/d5vrLAkns6mL69LsjqngCvThLvSh
+BnY41LxNg8fawi9pOvJ1h7BmBAFZhCp1UE/Jh5DxR4TT1WhLG8+La+Bw
+=CTHx
+-----END PGP SIGNATURE-----

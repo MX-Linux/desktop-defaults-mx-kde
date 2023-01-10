@@ -1,3 +1,9 @@
+desktop-defaults-mx-kde (23.01.03mx21) mx; urgency=medium
+
+  * Remove script to set the wallpaper
+
+ -- Adrian <adrian@mxlinux.org>  Mon, 09 Jan 2023 21:58:44 -0500
+
 desktop-defaults-mx-kde (23.01.02mx21) mx; urgency=medium
 
   * update lockscreen to MX_Tangram
