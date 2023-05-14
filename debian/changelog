@@ -1,3 +1,9 @@
+desktop-defaults-mx-kde (23.05.01mx21) mx; urgency=medium
+
+  * Update kde-mime.list to make sure Firefox opens .debs in Discover
+
+ -- Adrian <adrian@mxlinux.org>  Sat, 13 May 2023 23:38:44 -0400
+
 desktop-defaults-mx-kde (23.01.03mx21) mx; urgency=medium
 
   * Remove script to set the wallpaper

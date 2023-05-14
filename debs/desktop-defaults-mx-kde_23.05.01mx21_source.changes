@@ -1,0 +1,40 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Format: 1.8
+Date: Sat, 13 May 2023 23:38:44 -0400
+Source: desktop-defaults-mx-kde
+Architecture: source
+Version: 23.05.01mx21
+Distribution: mx
+Urgency: medium
+Maintainer: dolphinoracle <dolphinoracle@gmail.com>
+Changed-By: Adrian <adrian@mxlinux.org>
+Changes:
+ desktop-defaults-mx-kde (23.05.01mx21) mx; urgency=medium
+ .
+   * Update kde-mime.list to make sure Firefox opens .debs in Discover
+Checksums-Sha1:
+ 359d7c2142f303bf19f310f02d69816ba5fc5141 1239 desktop-defaults-mx-kde_23.05.01mx21.dsc
+ b9719af8e06116484424a569403792838d098f04 120012 desktop-defaults-mx-kde_23.05.01mx21.tar.xz
+ 8c579aeeed512fa67b23df312bc50bf9485b41b6 5766 desktop-defaults-mx-kde_23.05.01mx21_amd64.buildinfo
+Checksums-Sha256:
+ df1883e8c64e7ba3bed923a57783a40667d56b03de9415cdf2ebe7174f4a14bf 1239 desktop-defaults-mx-kde_23.05.01mx21.dsc
+ 495d1f5fa686cb8008146419ed907a898edbfedb372dea2354bbb5d619737e0c 120012 desktop-defaults-mx-kde_23.05.01mx21.tar.xz
+ 742ebe12337c318e5e4fa753f198cfc05aa51c1eb4ff24e2968cbe0186407008 5766 desktop-defaults-mx-kde_23.05.01mx21_amd64.buildinfo
+Files:
+ be2431283ee6d3af7a3fdf3ccc2fd825 1239 system optional desktop-defaults-mx-kde_23.05.01mx21.dsc
+ 41aea5a6b7b369865427e57e53d772ac 120012 system optional desktop-defaults-mx-kde_23.05.01mx21.tar.xz
+ 4bba702100221f0620782f3df60b6be9 5766 system optional desktop-defaults-mx-kde_23.05.01mx21_amd64.buildinfo
+
+-----BEGIN PGP SIGNATURE-----
+
+iQFHBAEBCgAxFiEE8ndToY6S45N+YzXncJOMeAZ57pgFAmRgWVoTHGFkcmlhbkBt
+eGxpbnV4Lm9yZwAKCRBwk4x4BnnumCRqB/44+spYol+7YQffEO97NMvmDA4cTnfj
+8D5WAL9lP5gRNRBB4t4MKQqDEEwZeDRSGZMeqjutuv0ukUtLX3GZ4II5xDaIDgBW
+u7cKcOksirrph77mXdWO2NPmwyEzAdC65OSbb7OgQfYlsBxfFWlu4Qvg1Iezc1e5
+57ivcst7atCZ4i4wyu9PaF7t+38F5MJR9SLqhpolgdGDMstmQKsMn03fomJKVCED
+/PsnZwt9ogbBDvpMKm0zx/3UmV1wdKxv5SB7e1R76TXyP99F5CA+C4FwrCXhdqoG
+j9rXLu5Jz7eZLSxh33lri6wTNncLsPNJlacDEtlW5NXJ/rZsmSrVC0lx
+=en5W
+-----END PGP SIGNATURE-----
