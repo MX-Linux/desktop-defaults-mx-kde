@@ -1,3 +1,9 @@
+desktop-defaults-mx-kde (23.05.02mx23) mx; urgency=medium
+
+  * provide kcm distro about information
+
+ -- Dolphin Oracle <dolphinoracle@gmail.com>  Mon, 29 May 2023 11:59:45 -0400
+
 desktop-defaults-mx-kde (23.05.01mx21) mx; urgency=medium
 
   * Update kde-mime.list to make sure Firefox opens .debs in Discover
