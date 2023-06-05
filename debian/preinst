@@ -1,0 +1,23 @@
+#!/bin/bash
+
+#DEBHELPER#
+
+# preinst script for desktop-defaults-kde-mx
+
+#set -e
+
+case "$1" in
+  install|upgrade)  dpkg-divert --quiet                                               \
+                               --add                                                 \
+                               --package desktop-defaults-mx-kde            \
+                               --rename                              \
+                               --divert /etc/xdg/kcm-about-distrorc.dpkg-distrib \
+								/etc/xdg/kcm-about-distrorc
+								
+                   ;;
+
+                *) :
+                   ;;
+esac 
+
+exit 0
