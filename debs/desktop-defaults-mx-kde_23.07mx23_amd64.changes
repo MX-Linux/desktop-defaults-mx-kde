@@ -18,29 +18,29 @@ Changes:
  .
    * Replace Tangram with default23.png wallpaper
 Checksums-Sha1:
- cf9aaf3d977104aac5d16667bcf6f82fa7bb39e0 1227 desktop-defaults-mx-kde_23.07mx23.dsc
- cc8acd5941733ec6d98450ef8f170a64d739d6dd 120544 desktop-defaults-mx-kde_23.07mx23.tar.xz
- 40a9b6df1e844fa99e54b630796db5d062d74dc9 122516 desktop-defaults-mx-kde_23.07mx23_all.deb
- 7256a787bff2eb915da2c4c59e56540941ace276 5681 desktop-defaults-mx-kde_23.07mx23_amd64.buildinfo
+ 7835e1c5b685ac620506bcaa7d06a7107fb96030 1230 desktop-defaults-mx-kde_23.07mx23.dsc
+ c03e4d7a1ac17234f433270b7c81c51a672f5e38 1116936 desktop-defaults-mx-kde_23.07mx23.tar.xz
+ e624c56ccc92b44cacec7c6033d9162a461c2ee3 1118824 desktop-defaults-mx-kde_23.07mx23_all.deb
+ 2f8578eeccda5a15955534bbaeac99e507f468bc 5684 desktop-defaults-mx-kde_23.07mx23_amd64.buildinfo
 Checksums-Sha256:
- 50d65c484caada35861d1cfd7d5cca1daee103da6ddee6e52e734b496b3bc803 1227 desktop-defaults-mx-kde_23.07mx23.dsc
- aae58995b97073aa6f0b88e930fd8199282059365240ee616760473abd0cba77 120544 desktop-defaults-mx-kde_23.07mx23.tar.xz
- 09899984c801f79a765a4e6a83d17d8886ee61d689b311a8f4473c5e0b55f4ae 122516 desktop-defaults-mx-kde_23.07mx23_all.deb
- 6befbf196e547c8f0bd52e458402a0f7e71b2b33fe6091084ce74246ba025557 5681 desktop-defaults-mx-kde_23.07mx23_amd64.buildinfo
+ 910751007451cf587abeac060ae6ebae1aa61d84af43531d678dec7424da9ae2 1230 desktop-defaults-mx-kde_23.07mx23.dsc
+ 19ad7ae56b37de5eaae7eb379b85c4d64cc948af19f63da2884d5a99458fa46f 1116936 desktop-defaults-mx-kde_23.07mx23.tar.xz
+ e648deeb68a823e82a23609a11df57773f13c8a5be6677a56d7e8023b10b1860 1118824 desktop-defaults-mx-kde_23.07mx23_all.deb
+ 4a7c4aad41f5e6db5db8522b504fd96cea9b2e51338d1cde51f11d218e48a757 5684 desktop-defaults-mx-kde_23.07mx23_amd64.buildinfo
 Files:
- d3262c4e4889ac1b57738ef4766a85a1 1227 system optional desktop-defaults-mx-kde_23.07mx23.dsc
- a1868db32e56fb1b0c7a8929420353d7 120544 system optional desktop-defaults-mx-kde_23.07mx23.tar.xz
- b64db7ee4a48a159e863380be651d9a0 122516 system optional desktop-defaults-mx-kde_23.07mx23_all.deb
- 783b7918cc63988fd38fbd7f32bfaba0 5681 system optional desktop-defaults-mx-kde_23.07mx23_amd64.buildinfo
+ f62753b6422d72819d4b98f73100987c 1230 system optional desktop-defaults-mx-kde_23.07mx23.dsc
+ d10b2a684787f6af3157ae28fb1ac4b8 1116936 system optional desktop-defaults-mx-kde_23.07mx23.tar.xz
+ da008934b94fd10eee6fadaec80a35bf 1118824 system optional desktop-defaults-mx-kde_23.07mx23_all.deb
+ 3a5f40486ef41ebd992f171101dfde46 5684 system optional desktop-defaults-mx-kde_23.07mx23_amd64.buildinfo
 
 -----BEGIN PGP SIGNATURE-----
 
-iQFHBAEBCgAxFiEE8ndToY6S45N+YzXncJOMeAZ57pgFAmSvEh8THGFkcmlhbkBt
-eGxpbnV4Lm9yZwAKCRBwk4x4BnnumKEoB/916Gyxr/Ch1ZWaDlPMhBVoDeK0hSTa
-05Pd7+3EAS9LgxlZa8PlmNgwvL5gaKWw1n3I+OcpAPSkLPvfq3MMB1iGpQABHKdB
-DBSKZe/9F4pvSPrfgDsHDMAzYDEM+ELMADAmx4Y+8449X3kzOJkLwxJUOmozWm2m
-RJz18s/JHXt5/azmk8yPVi61j8tg+MdZlLK0yq8kM7IkjmqKgDCJ5hAkUmBZjgzp
-CVghXmjFWBUcMsE33b8clWVL/ehBP0o/iN2mBZTIrRn+wxCVlUvBCpIcE3+Fx4VP
-eyXbv341sHfkjbHPKWOW5Wra/aCVKREHDKpIAkRe+lh1iyVrP08takT0
-=ptlf
+iQFHBAEBCgAxFiEE8ndToY6S45N+YzXncJOMeAZ57pgFAmSvFQMTHGFkcmlhbkBt
+eGxpbnV4Lm9yZwAKCRBwk4x4BnnumOpSCACpNijJ6LeyKGnGmKPaTbIciPja1iG/
+lEfER2ep1aem4kGxPXal5V7HbKfaJyG/ZjGEgM2+4sMRPsB2dgYaJeO4JrMfop7x
+Tg6adygK+JnFNgenhs+cYDnQcI2BGagqRbqqKrG2gyaHNxHDDEo1nwqneOs2odaY
+flSY7bCqeeuNKNcdfHMOgY/TTXNTS/JM1x/u/i7Tt0z5JPASYGWQzOuBkqzSkRQJ
+QtTV+wILGmak3v8eG3TgLtZF2L974VNlSvVxb+5cQ2LMlSsWxVqjQRaqvGWrTBs6
+MXsUk68qbnChxzneFI3UlCmMmlMPQPlBTEXcZl2RWlnIpXwZSMod4RcK
+=0Gxj
 -----END PGP SIGNATURE-----
