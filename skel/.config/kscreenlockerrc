@@ -6,5 +6,5 @@ Autolock=false
 LockOnResume=false
 
 [Greeter][Wallpaper][org.kde.image][General]
-Image=file:///usr/share/backgrounds/MX_Tangram.png
+Image=file:///usr/share/wallpapers/default23.png
 
