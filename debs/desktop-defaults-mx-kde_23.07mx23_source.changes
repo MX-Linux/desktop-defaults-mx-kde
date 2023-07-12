@@ -1,0 +1,40 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Format: 1.8
+Date: Wed, 12 Jul 2023 16:49:31 -0400
+Source: desktop-defaults-mx-kde
+Architecture: source
+Version: 23.07mx23
+Distribution: mx
+Urgency: medium
+Maintainer: dolphinoracle <dolphinoracle@gmail.com>
+Changed-By: Adrian <adrian@mxlinux.org>
+Changes:
+ desktop-defaults-mx-kde (23.07mx23) mx; urgency=medium
+ .
+   * Replace Tangram with default23.png wallpaper
+Checksums-Sha1:
+ cf9aaf3d977104aac5d16667bcf6f82fa7bb39e0 1227 desktop-defaults-mx-kde_23.07mx23.dsc
+ cc8acd5941733ec6d98450ef8f170a64d739d6dd 120544 desktop-defaults-mx-kde_23.07mx23.tar.xz
+ 7256a787bff2eb915da2c4c59e56540941ace276 5681 desktop-defaults-mx-kde_23.07mx23_amd64.buildinfo
+Checksums-Sha256:
+ 50d65c484caada35861d1cfd7d5cca1daee103da6ddee6e52e734b496b3bc803 1227 desktop-defaults-mx-kde_23.07mx23.dsc
+ aae58995b97073aa6f0b88e930fd8199282059365240ee616760473abd0cba77 120544 desktop-defaults-mx-kde_23.07mx23.tar.xz
+ 6befbf196e547c8f0bd52e458402a0f7e71b2b33fe6091084ce74246ba025557 5681 desktop-defaults-mx-kde_23.07mx23_amd64.buildinfo
+Files:
+ d3262c4e4889ac1b57738ef4766a85a1 1227 system optional desktop-defaults-mx-kde_23.07mx23.dsc
+ a1868db32e56fb1b0c7a8929420353d7 120544 system optional desktop-defaults-mx-kde_23.07mx23.tar.xz
+ 783b7918cc63988fd38fbd7f32bfaba0 5681 system optional desktop-defaults-mx-kde_23.07mx23_amd64.buildinfo
+
+-----BEGIN PGP SIGNATURE-----
+
+iQFHBAEBCgAxFiEE8ndToY6S45N+YzXncJOMeAZ57pgFAmSvEh8THGFkcmlhbkBt
+eGxpbnV4Lm9yZwAKCRBwk4x4BnnumHfuB/9D9LNpc9RDGubRjJcnELyxoX26KbgD
+tKWEvkYbmYiM386EK+CesZMAQ/jOnPT4UxUsOCYKyvjRgosjvE0F51a2gmADlbeG
+l1EOSOzqkANKGEIS/IzZL1R/OHmnzhjAv4rmwzpo+aZx1h8laPFgbQmsp+8tJtKl
+riBqGdRs6ARZs24qLLq1Zp8CmgBMcRYzZv1Kj57ILwl0Un+yMZqSnPvC6xlw69HK
+Zf65TT/MNYlT8GfGSOA1RSLL74cMt2KOqGVlxnVpzhKMzjRiQCGWuC7DUPRsMYEA
+HvLMnZ5DU/uPTGpv6x0JY+i7qcnCS5hH9pgpFO65nKc8MLXmyRFc+R6X
+=XZTD
+-----END PGP SIGNATURE-----

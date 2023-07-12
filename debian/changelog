@@ -1,3 +1,9 @@
+desktop-defaults-mx-kde (23.07mx23) mx; urgency=medium
+
+  * Replace Tangram with default23.png wallpaper
+
+ -- Adrian <adrian@mxlinux.org>  Wed, 12 Jul 2023 16:49:31 -0400
+
 desktop-defaults-mx-kde (23.06.01mx23) mx; urgency=medium
 
   * make kcm-distrorc a divert to avoid conflict with desktop-base
