@@ -1,3 +1,9 @@
+desktop-defaults-mx-kde (25.05.01mx25) mx; urgency=medium
+
+  * adjustments to get a desktop on first boot
+
+ -- Dolphin Oracle <dolphinoracle@gmail.com>  Sun, 04 May 2025 19:23:13 -0400
+
 desktop-defaults-mx-kde (23.07mx23) mx; urgency=medium
 
   * Replace Tangram with default23.png wallpaper
