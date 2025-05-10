@@ -1,6 +1,8 @@
 desktop-defaults-mx-kde (25.05.02mx25) mx; urgency=medium
 
   * new monochrome theme 
+  * add sddm-theme-breeze as a depend
+  * adjust some defaults
 
  -- Dolphin Oracle <dolphinoracle@gmail.com>  Sat, 10 May 2025 14:51:38 -0400
 
