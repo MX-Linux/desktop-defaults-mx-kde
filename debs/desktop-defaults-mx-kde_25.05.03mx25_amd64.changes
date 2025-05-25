@@ -1,0 +1,46 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Format: 1.8
+Date: Sun, 25 May 2025 11:20:17 -0400
+Source: desktop-defaults-mx-kde
+Binary: desktop-defaults-mx-kde
+Architecture: source all
+Version: 25.05.03mx25
+Distribution: mx
+Urgency: medium
+Maintainer: dolphinoracle <dolphinoracle@gmail.com>
+Changed-By: Adrian <adrian@mxlinux.org>
+Description:
+ desktop-defaults-mx-kde - Metapackage for desktop defaults for MX Linux KDE/plasma.
+Changes:
+ desktop-defaults-mx-kde (25.05.03mx25) mx; urgency=medium
+ .
+   * Set qimgv as default image opener
+Checksums-Sha1:
+ f139cef69bc8ce632f44a56b86a9114ec669a2da 1236 desktop-defaults-mx-kde_25.05.03mx25.dsc
+ 82b2732129a0d8879611e240c77c56773a2d46ff 22604 desktop-defaults-mx-kde_25.05.03mx25.tar.xz
+ cc2ba612d35c0a9f227d0a3fe7721770476d0d5f 23256 desktop-defaults-mx-kde_25.05.03mx25_all.deb
+ c1a481d1ef894d7ec5020de05671120933d03ee9 5439 desktop-defaults-mx-kde_25.05.03mx25_amd64.buildinfo
+Checksums-Sha256:
+ 6b87648aa83415ded6840c45004991d389f42743cb106b6faebfaa06bb30200b 1236 desktop-defaults-mx-kde_25.05.03mx25.dsc
+ 62db25f425cbb640dca52b0faa1c919c00f7cfbd154f4dc500cb1ced03ad39e4 22604 desktop-defaults-mx-kde_25.05.03mx25.tar.xz
+ bae439eb9f939458aeef7cd8094590198fe924c4f352df03e59a4df3ca82442d 23256 desktop-defaults-mx-kde_25.05.03mx25_all.deb
+ 308f13facec09d76d5f02135c7e9e76222062cb36c4fac920ab7a2f03ab43eb8 5439 desktop-defaults-mx-kde_25.05.03mx25_amd64.buildinfo
+Files:
+ 0b8b16163cd1f468f5be217ed888c323 1236 system optional desktop-defaults-mx-kde_25.05.03mx25.dsc
+ f81719f55c5bb74b1e590281d47f4877 22604 system optional desktop-defaults-mx-kde_25.05.03mx25.tar.xz
+ 17f77cddc8d993bf322d93d176310f46 23256 system optional desktop-defaults-mx-kde_25.05.03mx25_all.deb
+ 79d0ea386ab734739bbc391a78ec4104 5439 system optional desktop-defaults-mx-kde_25.05.03mx25_amd64.buildinfo
+
+-----BEGIN PGP SIGNATURE-----
+
+iQFHBAEBCgAxFiEE8ndToY6S45N+YzXncJOMeAZ57pgFAmgzl1QTHGFkcmlhbkBt
+eGxpbnV4Lm9yZwAKCRBwk4x4BnnumFCZCADXdYJMDqdfocolfJ3MCv8FVFy+3Dyy
+Bte6rSHCujxMhZvbAUcLFcUVrz7z8IYvPJvZQy1uLgFigpeMpTnTMpn/01Viako6
+GcPMCD8u4Z7ReZyApeR0FrIH0w0DPCS1IaEd1ofX2Wg05ASGMMxH0afGhgZuQ8lw
+CRG5te+ObXaPZWViSe9gZG+Xz4L/XH2AkJ2DSsnmpc79Qxn7M27QMQKgp9g3TEZP
+02JPWcMD/457IzlisbfJyv/24lT/jqcPM0lJf9yZxjlq1JDD1xxlDEd6QK+Il9AW
+0Kju6PgWSjQxuIRZ6UTb5udrMbMUaOzJBc7FIEMtdp0QHYfGiYW8KkrV
+=aMIl
+-----END PGP SIGNATURE-----
