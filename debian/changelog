@@ -1,3 +1,9 @@
+desktop-defaults-mx-kde (25.09.02mx25) mx; urgency=medium
+
+  * additional default graphics file mimetypes 
+
+ -- Dolphin Oracle <dolphinoracle@gmail.com>  Mon, 15 Sep 2025 19:24:11 -0400
+
 desktop-defaults-mx-kde (25.09.01mx25) mx; urgency=medium
 
   * add powerdevilrc to disable autosuspend by default
