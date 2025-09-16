@@ -1,8 +1,10 @@
 desktop-defaults-mx-kde (25.09.02mx25) mx; urgency=medium
 
   * additional default graphics file mimetypes 
+  * disable screen locking by default
+  * important for live system when users donn't password
 
- -- Dolphin Oracle <dolphinoracle@gmail.com>  Mon, 15 Sep 2025 19:24:11 -0400
+ -- Dolphin Oracle <dolphinoracle@gmail.com>  Mon, 15 Sep 2025 20:22:19 -0400
 
 desktop-defaults-mx-kde (25.09.01mx25) mx; urgency=medium
 
