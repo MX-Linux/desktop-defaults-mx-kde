@@ -7,6 +7,6 @@ Standards-Version: 3.9.4
 Homepage: https://mxlinux.org
 
 Package: desktop-defaults-mx-kde
-Depends: sddm-theme-breeze sonnet6-plugins
+Depends: sddm-theme-breeze, sonnet6-plugins
 Architecture: all
 Description: Metapackage for desktop defaults for MX Linux KDE/plasma.
