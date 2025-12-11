@@ -1,3 +1,9 @@
+desktop-defaults-mx-kde (25.12.01mx25) mx; urgency=medium
+
+  * add sonnet6-plugins (fixes issue with spellchecker on plasma 6)
+
+ -- Dolphin Oracle <dolphinoracle@gmail.com>  Wed, 10 Dec 2025 19:18:21 -0500
+
 desktop-defaults-mx-kde (25.09.02mx25) mx; urgency=medium
 
   * additional default graphics file mimetypes 
