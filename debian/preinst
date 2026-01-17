@@ -6,6 +6,7 @@
 
 #set -e
 
+mkdir -p /var/lib/dpkg-diverts-mx/etc/grub.d /var/lib/dpkg-diverts-mx/etc/sddm
 case "$1" in
   install|upgrade)  dpkg-divert --quiet                                               \
                                --add                                                 \
@@ -13,6 +14,13 @@ case "$1" in
                                --rename                              \
                                --divert /etc/xdg/kcm-about-distrorc.dpkg-distrib \
 								/etc/xdg/kcm-about-distrorc
+								
+				    pkg-divert --quiet                                               \
+                               --add                                                 \
+                               --package desktop-defaults-mx-kde            \
+                               --rename                              \
+                               --divert /var/lib/dpkg-diverts-mx/etc/sddm/wayland-session \
+								/etc/sddm/wayland-session
 								
                    ;;
 
