@@ -15,12 +15,19 @@ case "$1" in
                                --divert /etc/xdg/kcm-about-distrorc.dpkg-distrib \
 								/etc/xdg/kcm-about-distrorc
 								
-				    pkg-divert --quiet                                               \
+				    dpkg-divert --quiet                                               \
                                --add                                                 \
                                --package desktop-defaults-mx-kde            \
                                --rename                              \
                                --divert /var/lib/dpkg-diverts-mx/etc/sddm/wayland-session \
 								/etc/sddm/wayland-session
+								
+								#if files don't exist in divert folder, copy some over so at least some are present
+    							if [ -e /etc/sddm/wayland-session ]; then
+    								if [ ! -e /var/lib/dpkg-diverts-mx/etc/sddm/wayland-session ]; then
+    									mv -f /etc/sddm/wayland-session /var/lib/dpkg-diverts-mx/sddm
+    								fi
+    							fi
 								
                    ;;
 
