@@ -1,4 +1,5 @@
 skel	etc
+sddm/*    usr/share/desktop-defaults-mx-kde/sddm
 sddm/*    etc/sddm
 xdg  	etc
 breeze	usr/share/sddm/themes

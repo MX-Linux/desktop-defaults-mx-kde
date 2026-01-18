@@ -1,0 +1,9 @@
+#!/bin/sh -e
+
+if [ "$1" = "configure" ] || [ "$1" = "abort-upgrade" ] || [ "$1" = "abort-remove" ] ; then
+
+    if [ ! -e /etc/sddm/wayland-session ]; then
+    	cp /usr/share/desktop-defaults-mx-kde/sddm/wayland-session /etc/sddm/wayland-session
+    fi
+fi
+#DEBHELPER#
