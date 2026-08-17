@@ -1,3 +1,9 @@
+desktop-defaults-mx-kde (26.08.01mx27) mx; urgency=medium
+
+  * pre-forky setup
+
+ -- Dolphin Oracle <dolphinoracle@gmail.com>  Mon, 17 Aug 2026 19:25:34 -0400
+
 desktop-defaults-mx-kde (26.05.01mx25) mx; urgency=medium
 
   * bump version
