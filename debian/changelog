@@ -1,9 +1,15 @@
-desktop-defaults-mx-kde (26.08.01mx27) mx; urgency=medium
+desktop-defaults-mx-kde (27.08.01mx27) mx; urgency=medium
 
   * pre-forky setup
-  * adjust monochrome theme background 
+  * adjust monochrome theme background
 
  -- Dolphin Oracle <dolphinoracle@gmail.com>  Wed, 26 Aug 2026 21:21:19 -0400
+
+desktop-defaults-mx-kde (26.09.01mx25) mx; urgency=medium
+
+  * update mx version (25.3)
+
+ -- Dolphin Oracle <dolphinoracle@gmail.com>  Sat, 12 Sep 2026 21:26:39 -0400
 
 desktop-defaults-mx-kde (26.05.01mx25) mx; urgency=medium
 
